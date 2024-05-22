@@ -1,0 +1,634 @@
+Unnamed: 0,Index,VideoIndex,CommentID,UserID,Comment,Number_of_Likes,Number_of_Replies,Updated_At,TextBlob Polarity Score,TextBlob Subjectivity Score,Vader Negative Polarity Score,Vader Neutral Polarity Score,Vader Positive Polarity Score,Vader_Compound_Polarity_Score,Readability Score,Is_Sarcastic,Emotion,Toxicity_Prediction
+0,0,1,Ugxm69Bhl1x0Lk-szpd4AaABAg,@CreepyEnderPig,it's redeemed zoomer,0,0,2023-10-27T18:32:34Z,0.0,0.0,0.0,0.465,0.535,0.3182,93.81,Not Sarcasm,guilt,Not Toxic
+1,1,1,UgzIlwNu6KbpL-NN5QB4AaABAg,@pds5971,It explains how all Sheldon's wired quirks began,0,0,2023-10-21T18:41:47Z,0.0,0.0,0.0,1.0,0.0,0.0,73.85,Not Sarcasm,guilt,Not Toxic
+2,2,1,UgxTxaRSLUYZLb4lzNt4AaABAg,@Inigo_The_Son,"This spin-off was great for a year or two.  Unfortunately, young Sheldon did not age into a likeable character.  That is always the risk you take when selecting child actors.",0,0,2023-09-29T04:33:00Z,0.45,0.575,0.163,0.58,0.257,0.5574,49.18,Not Sarcasm,guilt,Not Toxic
+3,3,1,Ugy2zr1ctmIm4el54194AaABAg,@ronsindric4241,"Good Stuff.  If there was YOUNG SHELDON, and BIG BANG SHELDON, why not OLDE FAERTE SHELDON ?  What if there was a mini-series SHELDON AND HIS FRIEND ALF ?",1,0,2023-06-14T22:19:26Z,0.2666666666666666,0.3666666666666667,0.0,0.703,0.297,0.8016,81.29,Not Sarcasm,fear,Not Toxic
+4,4,1,UgxPxCzdv_ggflNfnXF4AaABAg,@ajayveersingh687,❤,1,0,2023-06-14T07:43:17Z,0.0,0.0,0.0,0.192,0.808,0.6369,206.84,Not Sarcasm,sadness,Not Toxic
+5,5,1,UgzF6xObffHC1hPYQkF4AaABAg,@abidhossain6564,Sheldon and Mary Cooper is favourite character ❤,1,0,2023-06-14T05:05:18Z,0.0,0.0,0.0,0.588,0.412,0.6369,49.48,Not Sarcasm,sadness,Not Toxic
+6,6,1,UgwH_kfOcyAG4W_pLoZ4AaABAg,@trendydwarf3747,Did he really invent the landing of the rocket,1,0,2023-06-06T18:10:46Z,0.2,0.2,0.0,1.0,0.0,0.0,8.2,Not Sarcasm,disgust,Toxic
+7,7,1,UgwbUBEmgykhZ7fW2Fx4AaABAg,@jatinyogesh3926,Why is it so that we are smart and we doubt people no one deserves attention,1,0,2023-05-11T17:37:38Z,0.2142857142857142,0.6428571428571429,0.272,0.435,0.293,0.0516,56.93,Not Sarcasm,disgust,Toxic
+8,8,1,UgyD3NNWk56cHH-_dIx4AaABAg,@matthewobrien4639,Even from day one this was such a good show.,1,0,2023-01-02T02:27:49Z,0.7,0.6000000000000001,0.0,0.633,0.367,0.4404,117.16,Not Sarcasm,joy,Not Toxic
+9,9,1,UgyrYN5r9eT6gui2aSB4AaABAg,@Akiras_videos,He has the voice of o from the movie home,1,0,2022-12-31T19:25:23Z,0.0,0.0,0.0,1.0,0.0,0.0,119.19,Sarcasm,disgust,Toxic
+10,10,1,UgxBplQG9GUko3VI21V4AaABAg,@TevitaTmila,Sheldon was so cute in season 1,3,0,2022-12-04T08:42:05Z,0.5,1.0,0.0,0.5,0.5,0.4588,75.88,Not Sarcasm,sadness,Not Toxic
+11,11,1,UgxCd7aYRsuvPOPHSZJ4AaABAg,@rocketmom60,Sheldon was a total brat who was spoiled rotten by his mother to the neglect of her other children.,2,0,2022-08-27T23:35:33Z,0.0,0.75,0.484,0.516,0.0,-0.7624,46.44,Sarcasm,disgust,Toxic
+12,12,1,UgyevaC0TnMzKCDo96Z4AaABAg,@wendypulido9485,Can someone please tell me if that sheldon from young Sheldon has Asperger? I really hope he doesn’t,1,0,2022-07-25T02:29:23Z,0.15,0.3,0.0,0.621,0.379,0.6697,45.42,Not Sarcasm,anger,Not Toxic
+13,13,1,Ugxs1o_647LlzlA-25x4AaABAg,@christopherpetralia7585,Your father was first specimen accurate giggle.,2,0,2022-07-14T22:11:39Z,0.325,0.4833333333333334,0.0,0.641,0.359,0.4215,15.64,Not Sarcasm,fear,Not Toxic
+14,14,1,UgzLAxBJshEy1TXxRVt4AaABAg,@melinaflores6783,"This show is so damn good, I think it is my favourite show. I just finished season 5 and I handt noticed how much hes grown up! He looks like a baby here, so cute",1,0,2022-06-16T19:27:43Z,0.4833333333333333,0.6,0.092,0.612,0.296,0.7177,99.23,Not Sarcasm,guilt,Not Toxic
+15,15,1,Ugzhdbjm8d1cEOSWZ2x4AaABAg,@phannah143,I love this show so much! Please have more seasons! This show is therapeutic!,8,1,2022-06-10T01:03:25Z,0.4453125,0.4,0.0,0.52,0.48,0.8114,64.37,Not Sarcasm,joy,Not Toxic
+16,16,1,UgzWlqSo0Cku8vN3WY54AaABAg,@checkm8rr,That moment were he wore a mask and everyone said it was weird. That really back fired,2,0,2022-05-16T21:06:46Z,-0.25,0.5,0.411,0.589,0.0,-0.6786,66.91,Not Sarcasm,anger,Not Toxic
+17,17,1,UgxS_qzFPRnEfHVHQix4AaABAg,@macygould3194,I really love this show. 🥰🥰🥰,2,0,2022-04-29T17:18:22Z,0.5,0.6,0.0,0.313,0.687,0.9806,59.97,Not Sarcasm,joy,Not Toxic
+18,18,1,Ugzoujr46xunJJhee954AaABAg,@armelassue3461,Cool,1,0,2022-04-24T18:28:03Z,0.35,0.65,0.0,0.0,1.0,0.3182,121.22,Sarcasm,sadness,Not Toxic
+19,19,1,Ugyd4rCKzRXdyHlJulN4AaABAg,@Lillegit,I really saw the kids grow up,2,0,2022-04-23T12:45:42Z,0.2,0.2,0.0,1.0,0.0,0.0,75.88,Not Sarcasm,disgust,Not Toxic
+20,20,1,UgxZd_dLn_5_9IYkEep4AaABAg,@kanikamaheshwari9732,Love love love. Jim Parsons and Iain Armitage🧁❤️💜💕,1,0,2022-04-22T01:44:19Z,0.5,0.6,0.0,0.322,0.678,0.9723,93.3,Not Sarcasm,joy,Not Toxic
+21,21,1,UgzlnJo-Xttny0JlhFp4AaABAg,@legendkid82,I just somehow figured out that this is Sheldon from Big bang theory,0,0,2022-04-16T09:06:20Z,0.0,0.1,0.0,1.0,0.0,0.0,48.47,Not Sarcasm,sadness,Not Toxic
+22,22,1,Ugy6jNvQwn4Ijw1QKiR4AaABAg,@jay-fh6wp,Oh,0,0,2022-04-10T15:47:20Z,0.0,0.0,0.0,1.0,0.0,0.0,121.22,Not Sarcasm,sadness,Not Toxic
+23,23,1,UgzBULKFSWEwDXDu28x4AaABAg,@southpaw1889,"Nice to see a show that remembers God, and the fact your testicles dont descend til youre 15",0,0,2022-04-01T00:58:42Z,0.6,1.0,0.0,0.692,0.308,0.5994,76.22,Not Sarcasm,disgust,Toxic
+24,24,1,UgwWqN9F6zNRX4SScDh4AaABAg,@allenklein9789,I wonder if there is one black person that watches this show,0,0,2022-03-29T00:06:02Z,-0.1666666666666666,0.4333333333333333,0.0,1.0,0.0,0.0,73.85,Not Sarcasm,guilt,Not Toxic
+25,25,1,UgyJTV_6Ou_R4lfqWKZ4AaABAg,@abenaaddison3397,Is sheldon from God,0,0,2022-03-26T18:30:37Z,0.0,0.0,0.0,0.323,0.677,0.2732,77.91,Not Sarcasm,sadness,Toxic
+26,26,1,Ugxh6-3Fi0NgH8tQoBZ4AaABAg,@darrelljohnson5764,Missy “ your going to get your a$$ kicked in high school “  ! Spit my coffee out !,0,0,2022-03-15T16:17:48Z,0.25,0.5399999999999999,0.0,1.0,0.0,0.0,80.28,Not Sarcasm,fear,Toxic
+27,27,1,UgyxerLB13pvd1E5gdt4AaABAg,@quakecon2009,"I love young Sheldon, its absolutely amazing and makes me smile or laugh every 20-30 seconds.
+I feel it works better when he's younger, because the impact and cuteness of him conflicts with his sharp tongue and mind :)
+
+defo not a pedo, just a big fan.",3,0,2022-02-21T16:19:25Z,0.2675,0.4449999999999999,0.051,0.493,0.456,0.9664,66.74,Not Sarcasm,guilt,Not Toxic
+28,28,1,Ugy0t9v8Wccj-f1aC3d4AaABAg,@mreinstein48,He s cute!!,0,0,2022-02-14T18:07:38Z,0.78125,1.0,0.0,0.358,0.642,0.555,121.22,Not Sarcasm,sadness,Toxic
+29,29,1,Ugw_G_aBD7TkLpSdBpF4AaABAg,@bobbydelarosa5059,GOD IS KING  ✝️👑✝️👑✝️👑✝️👑✝️,0,1,2022-02-10T02:44:42Z,0.0,0.0,0.0,0.841,0.159,0.4278,120.21,Not Sarcasm,sadness,Toxic
+30,30,1,UgzTHzmRw9xR_4xTaaR4AaABAg,@bobbydelarosa5059,AMEN,0,0,2022-02-10T02:44:24Z,0.0,0.0,0.0,1.0,0.0,0.0,121.22,Not Sarcasm,sadness,Not Toxic
+31,31,1,UgxW94pCuGvyHuv801d4AaABAg,@bobbydelarosa5059,PRAISE THE LORD,0,0,2022-02-10T02:44:18Z,0.0,0.0,0.0,0.217,0.783,0.5574,120.21,Not Sarcasm,sadness,Toxic
+32,32,1,Ugys0-dzFWXFYJIdnSV4AaABAg,@bobbydelarosa5059,✝️👑✝️,0,0,2022-02-10T02:44:11Z,0.0,0.0,0.0,1.0,0.0,0.0,206.84,Not Sarcasm,sadness,Not Toxic
+33,33,1,UgwuQ0d7u5uc47Ndqf54AaABAg,@bobbydelarosa5059,GOD IS KIND,0,0,2022-02-10T02:44:06Z,0.6,0.9,0.0,0.0,1.0,0.6705,120.21,Not Sarcasm,sadness,Toxic
+34,34,1,UgwK8aDa2LnTdPgnSXN4AaABAg,@bobbydelarosa5059,GOD IS AMAZING ✝️👑✝️,1,0,2022-02-10T02:43:34Z,0.6000000000000001,0.9,0.0,0.404,0.596,0.8109,77.91,Not Sarcasm,sadness,Not Toxic
+35,35,1,Ugxo2toKYcA3odkjigx4AaABAg,@bobbydelarosa5059,PLEASE PRAY FOR MY SISTER AND THAT SHE HAS MORE FAITH IN GOD✝️👑✝️👑✝️👑✝️👑✝️,0,0,2022-02-10T02:43:25Z,0.0,0.0,0.0,0.547,0.453,0.9087,100.24,Not Sarcasm,sadness,Toxic
+36,36,1,Ugz-fG2KqM5klOM3YvJ4AaABAg,@bobbydelarosa5059,GOD IS GOOD ✝️👑✝️,0,0,2022-02-10T02:42:13Z,0.7,0.6000000000000001,0.0,0.436,0.564,0.7555,120.21,Not Sarcasm,sadness,Not Toxic
+37,37,1,UgzVjk03oNaJRbzuAZp4AaABAg,@bobbydelarosa5059,PLEASE PRAY FOR MY FAMILY AND THAT WE FIND OUR LIZARD ✝️👑✝️✝️,0,0,2022-02-10T02:42:04Z,0.0,0.0,0.0,0.622,0.378,0.7241,83.32,Not Sarcasm,sadness,Toxic
+38,38,1,UgymKRkl3olGL9GjO3t4AaABAg,@bobbydelarosa5059,HALLELUJAH ✝️👑✝️,0,0,2022-02-10T02:41:53Z,0.0,0.0,0.0,0.514,0.486,0.694,-47.99,Not Sarcasm,sadness,Not Toxic
+39,39,1,UgxC8xKtqioF08moS9l4AaABAg,@bobbydelarosa5059,JESUS SAVES ✝️👑✝️,0,0,2022-02-10T02:41:46Z,0.0,0.0,0.0,1.0,0.0,0.0,77.91,Not Sarcasm,sadness,Toxic
+40,40,1,UgwnTPCb9Eqsd3wSmiB4AaABAg,@bobbydelarosa5059,JESUS LOVES YOU ✝️,0,0,2022-02-10T02:40:07Z,0.0,0.0,0.0,0.404,0.596,0.6633,77.91,Not Sarcasm,sadness,Toxic
+41,41,1,UgxaPRF23oVRR_JWzoZ4AaABAg,@kurtreber9813,"I can't believe I'm driving the same car they have, so cool!",0,0,2022-02-10T02:32:02Z,0.4375,0.65,0.0,0.755,0.245,0.3802,89.75,Sarcasm,guilt,Not Toxic
+42,42,1,UgwOX1OhqD8ShCVCXaB4AaABAg,@hemeranyx4441,It's my new FAVORITE FAVORITE SERIES! I am on Season 3!,2,1,2022-02-03T12:36:34Z,0.4725378787878787,0.8181818181818182,0.0,0.465,0.535,0.8422,64.37,Not Sarcasm,guilt,Not Toxic
+43,43,1,UgyDPwCsoWfZItlUVgN4AaABAg,@peterhunt5072,Not a bad show..,0,0,2022-02-02T20:24:44Z,-0.6999999999999998,0.6666666666666666,0.636,0.364,0.0,-0.5423,120.21,Not Sarcasm,guilt,Toxic
+44,44,1,UgyOSyXryb3qsWwh74J4AaABAg,@trevordipholo6014,nice show,2,0,2022-02-01T19:45:09Z,0.6,1.0,0.0,0.263,0.737,0.4215,120.21,Not Sarcasm,sadness,Not Toxic
+45,45,1,Ugx2hXk90usv6Oy06yp4AaABAg,@highlordxeleth,"An entire show centered around an kid that is smarter than everyone else including every adults and is thus utterly insufferable about it because he has to remind everyone of it constantly? Yeah no thanks.
+To everyone their own tastes I guess, but just in this clip I wanted to punch him to the next dimension quite a few times. There are reasons why such kids never go far in real life by keeping that attitude: NO ONE likes it, because no one likes narcissists. And once adult? This attitude, if you managed to keep it with everyone around you hating it, will have severe consequences straight away in your early life.
+This isn't being smart or just arrogant. When you need to bring everyone down around you to remind them, harshly, and force it down their throats that you're the smartest: It's narcissism. No wonder this show has so much success...
+Might look wholesome, but it's just narcissism, sorry guys.
+Same reason I never found the adult Sheldon funny: Yeah, comedy, sitcom, funny, but when you understand he's just a pathological narcissist... yeah, makes it a whole lot less funny doesn't it?
+Anyway, that was just my opinion. Peace.",0,0,2022-01-28T11:08:58Z,0.0798809523809523,0.5283928571428571,0.055,0.681,0.264,0.987,52.26,Sarcasm,anger,Not Toxic
+46,46,1,UgyApjFpdH70Wvo3gfB4AaABAg,@benitachau,This show is so underrated,1,0,2022-01-25T03:15:15Z,0.0,0.0,0.0,1.0,0.0,0.0,-6.7,Not Sarcasm,sadness,Not Toxic
+47,47,1,UgyfjolngFKcEAcRcsN4AaABAg,@nofilterbtxh5000,God I’d kill myself if I had a child like that!,1,0,2022-01-20T14:26:42Z,0.0,0.0,0.396,0.238,0.365,-0.3382,118.18,Sarcasm,shame,Not Toxic
+48,48,1,UgxXk5EjuaE0uj0WfQp4AaABAg,@nathansaintus9927,Terrible Sitcom lol!,1,0,2022-01-18T15:20:31Z,0.0,0.85,0.414,0.244,0.342,-0.1511,34.59,Not Sarcasm,sadness,Toxic
+49,49,1,UgwOM7O3XQoWlmkeL854AaABAg,@ricardocjoulzenn2568,Young sheldon is nice without laugh tracks,0,0,2022-01-16T17:01:21Z,0.3333333333333333,0.5,0.301,0.411,0.288,-0.032,90.77,Not Sarcasm,sadness,Not Toxic
+50,50,1,UgyfHpjmIwWMmAk3UFV4AaABAg,@micah9320,I really really love Sheldon Cooper and his eccentricities. I just don't know why. hahahhaha,5,0,2022-01-14T04:07:04Z,0.5,0.6,0.0,0.677,0.323,0.6976,-5.35,Not Sarcasm,guilt,Toxic
+51,51,1,Ugx9MtN7ps_JIOurCsR4AaABAg,@yuvanyellapragada8211,I love this series,1,0,2022-01-12T08:43:22Z,0.5,0.6,0.0,0.192,0.808,0.6369,77.91,Not Sarcasm,joy,Not Toxic
+52,52,1,UgyxW6D1atsyDdd7uZJ4AaABAg,@Estocolmo97,Yoo Pondy got a new fam,0,0,2022-01-11T20:51:40Z,0.1363636363636363,0.4545454545454545,0.0,1.0,0.0,0.0,117.16,Not Sarcasm,joy,Not Toxic
+53,53,1,Ugx-oxt98maIGpma_hl4AaABAg,@neozaland,Who come to like those series in 2022 :) ?,1,0,2022-01-09T11:48:07Z,0.5,1.0,0.0,0.706,0.294,0.3612,92.8,Not Sarcasm,disgust,Not Toxic
+54,54,1,UgxPppqDBNY8wXfRZnN4AaABAg,@MichaelJohnson-yr2rj,I was wondering why they chose the cast which the mother has dyed blonde hair but she has dark hair the dad has dark hair but both kids except for sheldon has blonde hair  do they think the general public is stupid why didn't they choose kids that have dark hair like the mom and dad inconsistency just drives me crazy,0,0,2022-01-06T16:15:57Z,-0.1999999999999999,0.4074074074074074,0.155,0.777,0.067,-0.5106,55.92,Not Sarcasm,fear,Toxic
+55,55,1,Ugz5V_B7wnofQwVFQbF4AaABAg,@Rafaverdad,He looks like the problem child kid with Jhon Ritter,0,0,2022-01-03T17:53:29Z,0.0,0.0,0.265,0.49,0.245,-0.0516,89.75,Not Sarcasm,disgust,Not Toxic
+56,56,1,Ugw59yhboyyIPSf3iuN4AaABAg,@akwasi_osei,Sheldon is smart and  has a twin sister!,1,1,2021-12-31T16:20:50Z,0.2678571428571428,0.6428571428571429,0.0,0.572,0.428,0.4574,75.88,Not Sarcasm,disgust,Toxic
+57,57,1,Ugyvp0FnhQyDvcY5uip4AaABAg,@marilynfranz7381,Though i enjoy the show one thing baffles me. If sheldon is so smart he went to college as a child how come he is still in college when penny and his new friends in big bang theory attend,0,0,2021-12-29T16:02:23Z,0.1876623376623376,0.4243506493506493,0.0,0.679,0.321,0.8402,77.74,Not Sarcasm,disgust,Not Toxic
+58,58,1,UgxSFxC1aD7eUiUTxLN4AaABAg,@maxinetexasgal5114,New season of young Sheldon has a narrator??? PLEASE STOP 🛑🛑🛑🛑🛑 !!!?,0,0,2021-12-24T01:04:44Z,0.1658380681818181,0.4272727272727272,0.44,0.475,0.085,-0.8942,64.37,Not Sarcasm,sadness,Toxic
+59,59,1,Ugw9EYCaAu3VsJ1rHY94AaABAg,@catspetportugueclasseferna1430,👏🏻👏🏻👏🏻,0,0,2021-12-23T04:11:45Z,0.0,0.0,0.0,1.0,0.0,0.0,206.84,Not Sarcasm,sadness,Not Toxic
+60,60,1,Ugy7lQhDx8TaDx-vGFp4AaABAg,@Natty10272,"I have a friend that is the Sheldon of our group. Even looks like the young Sheldon, just got to add glasses",0,0,2021-12-20T13:30:51Z,0.1,0.4,0.0,0.659,0.341,0.6908,91.27,Not Sarcasm,joy,Not Toxic
+61,61,1,UgyiVCArag_w90OJ7Id4AaABAg,@hyacinth8522,This is brilliant!,1,0,2021-12-20T01:41:51Z,1.0,1.0,0.0,0.196,0.804,0.6239,36.62,Not Sarcasm,sadness,Not Toxic
+62,62,1,UgzDBnXstli_ggInzXh4AaABAg,@eza4891,Mum plays unbelievable,0,0,2021-12-14T11:13:54Z,-0.25,1.0,0.0,0.208,0.792,0.4215,34.59,Not Sarcasm,sadness,Not Toxic
+63,63,1,UgwPDowkp5a3LsQowvJ4AaABAg,@lucasCKS09,where can i watch it i really wanna watch it big bang theory and young sheldoun,0,1,2021-12-09T09:22:59Z,-0.0333333333333333,0.2166666666666666,0.0,1.0,0.0,0.0,69.79,Not Sarcasm,guilt,Not Toxic
+64,64,1,Ugze7-ZIFRaVyTypt3t4AaABAg,@alphonsabibin5707,So true tabitha,0,0,2021-12-05T18:19:41Z,0.35,0.65,0.0,0.263,0.737,0.4215,120.21,Not Sarcasm,sadness,Not Toxic
+65,65,1,Ugxgy9Gjg6OLtsZhAlN4AaABAg,@NBA3245890,the fact this show has any fans😂😂. Dont even gotta say it yall all got bullied or sat alone in high school.,0,1,2021-11-26T19:08:48Z,0.16,0.5399999999999999,0.257,0.545,0.197,-0.0772,106.16,Not Sarcasm,fear,Not Toxic
+66,66,1,Ugz-h_1UNpgMTmXS_VJ4AaABAg,@shwingshao2017,Nobody mentions how the mother literally shows how crazy religious people are . Or do you watch this thinking she is normal? . The three kids are pretty phucked up cause their father is down to earth and the mother is just not in touch with reality .,0,0,2021-11-23T15:39:00Z,-0.0499999999999999,0.7,0.084,0.804,0.112,0.2023,47.45,Not Sarcasm,disgust,Toxic
+67,67,1,Ugy0gryblR0qwDERC8p4AaABAg,@akshaymundkur,"Also in violation of the grooming code, you have a moustache 😂",0,0,2021-12-15T10:26:44Z,0.0,0.0,0.302,0.473,0.225,-0.0772,15.64,Not Sarcasm,disgust,Not Toxic
+68,68,1,UgyxuwoFGrhvJ5JKKIR4AaABAg,@joshberman3659,I just wonder if any of Sheldon's future roommates ever appeared on Young Sheldon as kids themselves?,0,2,2021-11-10T14:49:48Z,0.05,0.2625,0.0,1.0,0.0,0.0,52.87,Sarcasm,guilt,Toxic
+69,69,1,Ugz43NVW2HOUOA_HcIF4AaABAg,@eve3363,Just a white version of Smart Guy.,1,0,2021-11-05T18:25:14Z,0.1071428571428571,0.3214285714285714,0.0,0.597,0.403,0.4019,92.8,Sarcasm,disgust,Toxic
+70,70,1,UgwG6uZy8_SkuW6kmx94AaABAg,@marianlenehan9618,Great little series…First time watching it. Shame that the narrator’s voice is so irritating 😁,1,0,2021-11-04T19:47:24Z,0.0708333333333333,0.6833333333333332,0.242,0.476,0.282,0.25,33.07,Not Sarcasm,guilt,Not Toxic
+71,71,1,UgxZWD592nTTOFtIEb54AaABAg,@mrscashmorrisey1702,How is it that Sheldon doesn't have a Texan accent.,2,2,2021-11-02T00:42:32Z,0.0,0.0,0.0,1.0,0.0,0.0,50.5,Not Sarcasm,sadness,Not Toxic
+72,72,1,Ugz3SbePz1C2MeX_hyF4AaABAg,@oldchildhood8646,Ladies and Gentlemen. Young Sheldon is finally coming to Netflix UK on Monday. Hopefully all off the series will be added. Thank you Netflix.,10,0,2021-10-31T08:47:21Z,0.05,0.7,0.0,0.755,0.245,0.6369,38.99,Not Sarcasm,disgust,Toxic
+73,73,1,UgxUi1Oi-wEroV7GxCF4AaABAg,@gentlebonfilms,Omg i don't notice throughout the seasons Georgie's voice was changing,1,0,2021-10-29T06:13:22Z,0.0,0.0,0.0,1.0,0.0,0.0,79.26,Not Sarcasm,guilt,Not Toxic
+74,74,1,UgxHXpXdsyvKKgzJ7qt4AaABAg,@jaketaylor3233,loloplolololol,1,0,2021-10-25T03:18:47Z,0.0,0.0,0.0,1.0,0.0,0.0,36.62,Not Sarcasm,sadness,Not Toxic
+75,75,1,UgyliAd_T4EjzbtSqdZ4AaABAg,@krystalannawilliams2653,Laughing,1,0,2021-10-21T01:01:56Z,0.0,0.0,0.0,0.0,1.0,0.4939,36.62,Not Sarcasm,sadness,Not Toxic
+76,76,1,Ugxfva3U5YmqVUwJdF54AaABAg,@vampireladyish,The show sucks why they are making this show to unravel The Big Bang Theory is beyond me but it is stupid just like this show. I refuse to watch it since they are trying to ruin the Big Band Theory. Sheldon father was a drunk and a cheater. Then s show is a fantasy not good enough for me to watch. It is stupid but this is Hollywood for you. This is why I watch streaming app. and not Hollywood bullshit remakes reboots and lets not forget Hollywood does not know how to make horror movies. Hollywood and it movies and tv shows are a joke.,1,0,2021-10-17T13:41:38Z,-0.2124999999999999,0.575,0.368,0.541,0.091,-0.9719,64.27,Not Sarcasm,fear,Not Toxic
+77,77,1,Ugx9-Xg1eoRfX-PFKkR4AaABAg,@kitsunestudios140,It’s funny how this show was just a fans idea and was just a meme to begin with. With Other people joining. But then became a reality. Just amazes me how the power of fans can create something,33,1,2021-10-14T08:12:24Z,0.25,1.0,0.0,0.661,0.339,0.802,55.4,Not Sarcasm,anger,Not Toxic
+78,78,1,UgwvwGktaxHPrUBO5h14AaABAg,@prasadkarotia6806,Please keep young sheldon running without unnecessary drama... I beg you,2,0,2021-10-09T15:11:49Z,-0.15,0.65,0.0,0.796,0.204,0.3182,45.42,Not Sarcasm,guilt,Not Toxic
+79,79,1,UgyE3nr6_mgVZLLzqZ14AaABAg,@aizawashouta9132,"1:17
+Sheldon predicted covid-19",1,0,2021-10-06T03:01:01Z,0.0,0.0,0.0,1.0,0.0,0.0,50.5,Not Sarcasm,sadness,Toxic
+80,80,1,UgwDspVlOQjL6gycA_t4AaABAg,@usmanchughtai1751,I don’t if it’s just me but the dad reminds me of a fat Howard,0,0,2021-10-02T20:37:45Z,0.0,0.0,0.0,1.0,0.0,0.0,92.8,Not Sarcasm,anger,Not Toxic
+81,81,1,UgxF3rsPuF3icyE9ZVV4AaABAg,@davidleblanc9676,Not really he was scared of everything even himself and I shore hope his attitude changes,0,0,2021-09-29T23:33:59Z,0.2,0.2,0.264,0.496,0.24,-0.0754,46.44,Sarcasm,fear,Toxic
+82,82,1,UgxoyhF-19lFqcrNzFl4AaABAg,@ricksanchez4925,This show sucks,0,0,2021-09-29T12:38:35Z,-0.3,0.3,0.714,0.286,0.0,-0.3612,120.21,Not Sarcasm,sadness,Not Toxic
+83,83,1,UgxiGigS6hX0sDoojcl4AaABAg,@elizabethg2428,You shouldn’t be filming in churches,0,0,2021-09-28T16:53:54Z,0.0,0.0,0.0,1.0,0.0,0.0,35.61,Not Sarcasm,sadness,Toxic
+84,84,1,Ugx-5MKMhv5vwM4SJhN4AaABAg,@armandoalonso3459,"""Goodluck with your finger painting"" 😂🤣",0,0,2021-09-25T22:11:34Z,0.0,0.0,0.091,0.574,0.335,0.7269,34.59,Not Sarcasm,sadness,Toxic
+85,85,1,UgyEumEv7t8iWhaITgJ4AaABAg,@ameliaalexander531,Where can I watch this without paying?,0,0,2021-09-19T09:59:16Z,0.0,0.0,0.0,1.0,0.0,0.0,59.97,Not Sarcasm,guilt,Not Toxic
+86,86,1,UgwcJok1q1KmnaF37YZ4AaABAg,@moneybagbri596,everybody hates chris and young sheldon is two most goated tv shows of all time,1,1,2021-09-17T22:45:10Z,0.1,0.4,0.244,0.756,0.0,-0.4404,78.25,Not Sarcasm,disgust,Toxic
+87,87,1,UgxGEhVJGqN0nNKvWTR4AaABAg,@Oropher420,"1:10 Sheldon predicted ""Think, Mark, Think"" meme?",0,0,2021-09-13T08:35:13Z,0.0,0.0,0.0,1.0,0.0,0.0,81.29,Not Sarcasm,sadness,Not Toxic
+88,88,1,UgyhKJqE7cmgRMrVntB4AaABAg,@meowscles1804,"""little Leonard""",0,0,2021-09-04T13:37:14Z,-0.1875,0.5,0.0,1.0,0.0,0.0,77.91,Not Sarcasm,sadness,Not Toxic
+89,89,1,UgzvX33_lVuUbfsDPDV4AaABAg,@annaflores2915,:)),0,0,2021-09-03T02:19:17Z,0.5,1.0,0.0,1.0,0.0,0.0,206.84,Not Sarcasm,sadness,Not Toxic
+90,90,1,Ugw-XF4w5XCu2Payud14AaABAg,@TheShowNT,I’m excited for young Sheldon going to fox,2,0,2021-09-01T22:31:12Z,0.2375,0.575,0.0,0.676,0.324,0.34,49.48,Sarcasm,fear,Toxic
+91,91,1,UgyZQAKGFqY5AI6xOTp4AaABAg,@deebodixon494,I’m convinced that he will be a Serial Killer once he’s grown! He’s just creepy and annoying little kid to me!💯👊🏾👊🏾,1,0,2021-08-29T12:49:50Z,-0.5114583333333333,0.7999999999999999,0.235,0.681,0.084,-0.7081,50.5,Sarcasm,anger,Toxic
+92,92,1,UgysWv8v3neOfNCh-714AaABAg,@astrosaremakingmesad2596,Great video,0,0,2021-08-28T14:52:13Z,0.8,0.75,0.0,0.196,0.804,0.6249,120.21,Not Sarcasm,sadness,Not Toxic
+93,93,1,UgyZm7-XZJ_tg-kwGwR4AaABAg,@jakekong8489,1:43 She had it coming,0,0,2021-08-28T00:47:22Z,0.0,0.0,0.0,1.0,0.0,0.0,77.91,Not Sarcasm,sadness,Not Toxic
+94,94,1,UgxZAJVQQwZr0UX9tm14AaABAg,@alexrios2112,When did Annie Potts learned how to talk like Wanda Sykes?,0,0,2021-08-28T00:25:45Z,0.0,0.0,0.0,0.737,0.263,0.3612,89.75,Not Sarcasm,sadness,Not Toxic
+95,95,1,UgxpzpXW9Sf5Y0K9EYZ4AaABAg,@divine_dawn8596,"While Young Sheldon might be a light and hearty series to watch, I would prefer if they give some more screen time to Missy. Also, while most of the characters are realistic and have admirable qualities, I just find it unfair the way Missy is treated. Sheldon always gets what he wants, while I sometimes feel that Missy is kinda left out, and I don't like it.",14,0,2021-08-21T14:42:56Z,0.0611111111111111,0.4222222222222223,0.109,0.816,0.075,-0.1556,60.01,Sarcasm,fear,Not Toxic
+96,96,1,UgzxEIcS-pZckDCMd2R4AaABAg,@BibinVenugopal,He can act as young Sherlock also...,1,0,2021-08-13T11:25:57Z,0.1,0.4,0.0,1.0,0.0,0.0,75.88,Sarcasm,sadness,Toxic
+97,97,1,UgyBRi3dvFKgT456pvd4AaABAg,@sihleerasmus1610,Smart guy,0,0,2021-08-11T01:36:38Z,0.2142857142857142,0.6428571428571429,0.0,0.27,0.73,0.4019,120.21,Not Sarcasm,sadness,Toxic
+98,98,1,Ugy23UFc1-0xs_YBveJ4AaABAg,@RichardSmithX,Georgie was wearing tommyinnit shirt,0,0,2021-08-08T15:11:32Z,0.0,0.0,0.0,1.0,0.0,0.0,50.5,Sarcasm,sadness,Not Toxic
+99,99,1,UgxadfLZ7IK8T-9YTbB4AaABAg,@williamchollick959,"As a Transformers prequel series set between Bumblebee (2018) and Transformers (2007):
+
+0:31 - Central California
+0:34 - 2001
+
+0:56 - Sam Witwicky
+0:57 - Age 9",2,0,2021-08-06T18:47:19Z,0.0,0.25,0.0,1.0,0.0,0.0,52.19,Not Sarcasm,sadness,Not Toxic
+100,100,1,UgyxyFj21dH2-R-JEkp4AaABAg,@hannahmariehortinela9314,I haven’t watched this show yet but I remember Sheldon said he knocks three times ever since he saw his dad with another woman 😟,2,0,2021-08-06T11:26:38Z,0.0,0.0,0.115,0.885,0.0,-0.296,64.71,Not Sarcasm,disgust,Toxic
+101,101,1,Ugz35W613jcpq9_rsxJ4AaABAg,@reefsr432,We can't watch 🦆 DuckTales coz the monster 👹 gonna try to eat us Gula From Your Big Sister in Planet Earth 🌎,0,0,2021-08-01T06:03:30Z,0.0,0.1,0.0,1.0,0.0,0.0,80.62,Not Sarcasm,disgust,Toxic
+102,102,1,Ugzh5jTbVQEpsFsT7CB4AaABAg,@sw1rly801,So this is TBBT's Better call Saul?,0,0,2021-07-25T01:40:26Z,0.5,0.5,0.0,0.633,0.367,0.4404,100.24,Not Sarcasm,sadness,Not Toxic
+103,103,1,UgzivoHLh81Raf9iweV4AaABAg,@takamanch,oh my science,0,0,2021-07-22T18:05:32Z,0.0,0.0,0.0,1.0,0.0,0.0,77.91,Not Sarcasm,sadness,Not Toxic
+104,104,1,Ugzi7Ngeb6_qMI1H6vN4AaABAg,@dabifaz7031,Honestly I can see Big Bang theory coming back but this with Sheldon and Amy having kids and the whole gang am I wrong ? Lol,0,0,2021-07-22T10:07:05Z,0.1833333333333333,0.5,0.148,0.574,0.278,0.4019,74.19,Not Sarcasm,disgust,Not Toxic
+105,105,1,UgwD2D7xtRuOhi_wfQF4AaABAg,@rooparavi9474,"Sheldon's mother character is really annoying..She is a control freak,selfish,irritating,illogical,nonsensical,over possessive, manipulative,bossy,opportunist.I can't even believe she hid all the letters from schools inviting Sheldon ,just because she thought Sheldon is not grown up enough(in fact she dint want Sheldon  away from her,that would be one less person to manipulate)",1,1,2021-07-21T05:45:43Z,-0.3733333333333334,0.6533333333333334,0.221,0.701,0.078,-0.8749,32.9,Not Sarcasm,sadness,Toxic
+106,106,1,UgxmnIbo5MgDMg22zzB4AaABAg,@thalyasoriano5876,Where can i watch this?,0,0,2021-07-20T16:12:59Z,0.0,0.0,0.0,1.0,0.0,0.0,121.22,Not Sarcasm,guilt,Not Toxic
+107,107,1,UgwXfVz6E5MRRgr-ZcJ4AaABAg,@mohittyagi4510,Satvìk,0,0,2021-07-11T09:23:49Z,0.0,0.0,0.0,1.0,0.0,0.0,121.22,Not Sarcasm,sadness,Not Toxic
+108,108,1,UgzGMoqinsJsg5HSuy54AaABAg,@michdoug1,Has anyone tried spaghetti and sliced hot dogs?,0,0,2021-07-09T18:16:36Z,0.25,0.8500000000000001,0.0,1.0,0.0,0.0,90.77,Not Sarcasm,sadness,Not Toxic
+109,109,1,UgyY4aPpuPKdwZgImnF4AaABAg,@raegansfidgets482,"Sheldon: “hey look, that girl is pregnant!”
+Mom: “congratulations”  LOL",8,0,2021-07-08T18:41:20Z,0.6083333333333334,0.6,0.0,0.644,0.356,0.8283,50.5,Not Sarcasm,sadness,Toxic
+110,110,1,Ugzg258T4kxa8dBJC7R4AaABAg,@MM-bv7hi,Young S is so annoying,0,0,2021-06-30T22:00:46Z,-0.35,0.65,0.73,0.27,0.0,-0.4019,35.61,Not Sarcasm,sadness,Not Toxic
+111,111,1,Ugwd0zjdyNnbwaub-Sl4AaABAg,@ramankaur7455,Where I can watch this show I want to  . Is anybody can tell me..?,1,0,2021-06-29T04:42:02Z,0.0,0.0,0.0,0.843,0.157,0.0772,100.24,Not Sarcasm,guilt,Not Toxic
+112,112,1,Ugy54H_gbYd-qglOgah4AaABAg,@mariamnasr30,Should I watch it !?,1,2,2021-06-26T23:30:48Z,0.0,0.0,0.0,1.0,0.0,0.0,121.22,Not Sarcasm,guilt,Not Toxic
+113,113,1,UgxFvKhQdWokPpa3Ogt4AaABAg,@AmitCinematicUniverse,This is actor sells his Sheldon amazingly.,9,0,2021-06-21T17:59:03Z,0.6000000000000001,0.9,0.0,1.0,0.0,0.0,33.58,Not Sarcasm,sadness,Toxic
+114,114,1,UgwHKTP4jGsVbI_2Iul4AaABAg,@brienluck4783,This show fosters hate against Christianity.,0,0,2021-06-14T01:56:26Z,-0.8,0.9,0.481,0.519,0.0,-0.5719,33.58,Not Sarcasm,sadness,Toxic
+115,115,1,UgxFksWxMQ-aAGRl_Sd4AaABAg,@brienluck4783,This show is so disrespectful and irreverent.,2,0,2021-06-13T23:58:52Z,0.0,0.0,0.0,1.0,0.0,0.0,-50.02,Not Sarcasm,sadness,Not Toxic
+116,116,1,UgwTQrrsLJ94dcjagf54AaABAg,@rajarajanmanoharan,And why does this look like it was shot in the 90’s?! WTF,0,0,2021-06-11T23:21:10Z,-0.5,1.0,0.362,0.45,0.188,-0.5147,117.16,Not Sarcasm,fear,Not Toxic
+117,117,1,UgwaKbfy-Ggx4XNRN2d4AaABAg,@rajarajanmanoharan,“Think monkey…think”. He predicted the meme.,0,0,2021-06-11T23:20:11Z,0.0,0.0,0.0,1.0,0.0,0.0,33.58,Not Sarcasm,guilt,Not Toxic
+118,118,1,UgxwGM2-6CZU1TpjXbt4AaABAg,@dnyldlgr,Where can i watch this?,0,0,2021-06-05T09:56:18Z,0.0,0.0,0.0,1.0,0.0,0.0,121.22,Not Sarcasm,guilt,Not Toxic
+119,119,1,UgwinFw1qAgJ-upnrYR4AaABAg,@prospermashinyira7197,Im gonna come out and say it... Young Sheldon sucks cause Sheldon is always getting the attention... It just one sided... Stopped watching on Season 3,0,0,2021-06-02T16:56:47Z,-0.0999999999999999,0.35,0.18,0.82,0.0,-0.5267,73.54,Not Sarcasm,disgust,Not Toxic
+120,120,1,Ugz905ytEhaw-VNFdKR4AaABAg,@theresaholguin699,I have been watching on HBO max. Sometimes l feel like punching Sheldon in his throat. He can be such a jerk.,0,0,2021-06-02T10:32:55Z,0.0,0.0,0.127,0.582,0.291,0.4767,82.81,Sarcasm,disgust,Toxic
+121,121,1,UgzEmmCvZ8o-ajEXiix4AaABAg,@amanverma2321,i am like his elder brother.,0,0,2021-06-01T17:25:59Z,0.0,0.0,0.0,0.545,0.455,0.3612,59.97,Not Sarcasm,sadness,Toxic
+122,122,1,UgwYWoaUpn6tHBCGdsF4AaABAg,@Jenz77,Now we on season 4 and boii they're growing so fast.,1,0,2021-05-31T12:01:27Z,0.2,0.6,0.0,0.779,0.221,0.1779,90.77,Not Sarcasm,disgust,Not Toxic
+123,123,1,UgyVGkabQbFNNgQ2oal4AaABAg,@johnkalap9314,LMFAO!! So funny!!,0,0,2021-05-27T20:39:08Z,0.390625,1.0,0.0,0.325,0.675,0.8519,35.61,Not Sarcasm,sadness,Not Toxic
+124,124,1,UgwgWb9TrTecPl7ad694AaABAg,@crazyvideoholic9380,They should prolly make young Howard too.,1,0,2021-05-27T14:42:17Z,0.1,0.4,0.0,1.0,0.0,0.0,75.88,Not Sarcasm,sadness,Not Toxic
+125,125,1,UgyRtjWgG8E9birS0rN4AaABAg,@muhilas7750,His cuteness is too much to bear,8,0,2021-05-09T16:05:59Z,0.2,0.2,0.0,0.377,0.623,0.5106,93.81,Not Sarcasm,disgust,Toxic
+126,126,1,UgxG73oAfSqhKdpw7-p4AaABAg,@superjay14,Everybody hates Chris?,1,0,2021-05-08T07:27:39Z,0.0,0.0,0.492,0.508,0.0,-0.4404,59.97,Not Sarcasm,sadness,Toxic
+127,127,1,Ugxji9D68uA7zpVRn8B4AaABAg,@neilconway4939,it's sad that Sheldon's dad died when he was a teenager,6,0,2021-04-19T23:14:23Z,-0.5,1.0,0.573,0.427,0.0,-0.7717,89.75,Not Sarcasm,sadness,Not Toxic
+128,128,1,Ugw31TchjIDs30bzTgp4AaABAg,@princessnicolelucilo6189,I miss the big bang theory ;(,0,0,2021-03-16T05:41:52Z,0.0,0.1,0.242,0.758,0.0,-0.1531,75.88,Not Sarcasm,sadness,Not Toxic
+129,129,1,UgzokhglneiRDrAiBxh4AaABAg,@jamespangilinan6970,LMAOOOOO so cool,0,0,2021-03-13T13:37:30Z,0.35,0.65,0.0,0.303,0.697,0.3182,120.21,Sarcasm,sadness,Not Toxic
+130,130,1,UgzgxeQAfibWvZU1u1V4AaABAg,@absolut6ix187,⭐⭐⭐⭐⭐,1,0,2021-03-10T13:28:39Z,0.0,0.0,0.0,1.0,0.0,0.0,206.84,Not Sarcasm,sadness,Not Toxic
+131,131,1,Ugz9gyKi62sPLAXrDt54AaABAg,@Dawson23a,People should respect their intellectual superiors.,0,0,2021-03-05T10:36:11Z,0.3,0.4,0.0,0.192,0.808,0.8126,-76.41,Not Sarcasm,disgust,Toxic
+132,132,1,UgwoVIsB-BahJh3ZvUZ4AaABAg,@moonchild7190,This made me cry. I always love big bang theory. Sheldon in general. JIM PARSONS IN GENERAAAAL!!!!,1,0,2021-02-27T11:48:51Z,0.2073567708333333,0.3999999999999999,0.122,0.668,0.211,0.5053,48.47,Not Sarcasm,joy,Not Toxic
+133,133,1,Ugz3sYUKRcEApqpCKRJ4AaABAg,@alichoi3828,This was tear dropping after long minute of laughing. 😂,8,0,2021-02-24T00:40:50Z,-0.05,0.4,0.112,0.473,0.414,0.7269,83.32,Not Sarcasm,joy,Not Toxic
+134,134,1,Ugx4kISOXKXpNsCepIV4AaABAg,@Pixel_Pancake,Oh dear God this is me,0,0,2021-02-13T18:38:13Z,0.0,0.0,0.0,0.175,0.825,0.5719,119.19,Not Sarcasm,sadness,Not Toxic
+135,135,1,UgwXRDocfaNXTAbOaGR4AaABAg,@zr1rocks,I just realized sheldon’s dad plays Leonarda bully in Big Bang Theory!,3,1,2021-02-09T20:28:33Z,0.0,0.1,0.241,0.621,0.138,-0.3595,45.42,Not Sarcasm,guilt,Toxic
+136,136,1,UgzIvnRRmMJQDM7CHdh4AaABAg,@Joao-lz2ry,I love it ❣️,2,0,2021-02-08T06:02:00Z,0.5,0.6,0.0,0.192,0.808,0.8555,121.22,Not Sarcasm,joy,Not Toxic
+137,137,1,UgwyP6oND_sGvY6iZBh4AaABAg,@XX-rr6lg,Good they bless the food each time. I m hooked on this show.,2,0,2021-02-07T06:09:40Z,0.7,0.6000000000000001,0.0,0.513,0.487,0.6908,116.15,Sarcasm,disgust,Not Toxic
+138,138,1,UgzhJejkjzVS6eLcJKB4AaABAg,@rogue_linner,If he's 9 yrs old why does he look like he's 5,1,0,2021-01-31T14:20:17Z,0.1,0.2,0.0,0.737,0.263,0.3612,114.12,Not Sarcasm,sadness,Toxic
+139,139,1,UgzxTNkxq7JBrRO19fp4AaABAg,@meelisjuhkam1450,Sheldon is like me and I was diagnosed with autism why doctors don't get me my parents don't understand me and some people do but those are rare and I yeah  you shall see so he is going to learn so did I,0,0,2021-01-28T17:10:20Z,0.3,0.9,0.0,0.761,0.239,0.5719,62.68,Not Sarcasm,fear,Not Toxic
+140,140,1,UgyWgiaD3u4-bmPvx494AaABAg,@okikimakun4365,ugh,0,0,2021-01-10T05:29:56Z,0.0,0.0,1.0,0.0,0.0,-0.4215,121.22,Sarcasm,sadness,Not Toxic
+141,141,1,Ugzh_Kd3BivPTvu4lNd4AaABAg,@AMemEo,Ask Amy and Bernadette for Vaccines,0,0,2021-01-05T06:56:11Z,0.0,0.0,0.0,1.0,0.0,0.0,92.8,Not Sarcasm,disgust,Toxic
+142,142,1,UgxB9-lCLhF4asDtdft4AaABAg,@theamazinggamerdenley3758,AFTER WATCHING YOUNG SHELDON I THINK I AM THINKING THAT I AM THE SMARTEST AT OUR SCHOOL,5,1,2020-12-29T19:39:59Z,0.1,0.4,0.0,0.6,0.4,0.6124,81.29,Not Sarcasm,guilt,Not Toxic
+143,143,1,UgyL91RbjYCgoafrtVx4AaABAg,@alishakenner6913,Nwaa he’s soooo cute ☺️🙂🙂🙂🙂🙂🙂,0,0,2020-12-23T20:00:53Z,0.5,1.0,0.0,0.418,0.582,0.965,119.19,Not Sarcasm,guilt,Toxic
+144,144,1,Ugy_dOHypINtLFzk_Zp4AaABAg,@lisaasbury1131,Noooooooooo00000000000⁰,0,0,2020-12-20T22:37:38Z,0.0,0.0,0.0,1.0,0.0,0.0,121.22,Not Sarcasm,sadness,Not Toxic
+145,145,1,UgzAMVV9pnT0AXgjy0x4AaABAg,@shivasaket7771,I want a young Leonard Show..It will be fun to see what happens when situation is reversed : normal kid but weird family,2,0,2020-12-19T10:31:10Z,0.0125,0.5625,0.093,0.656,0.251,0.4404,64.88,Not Sarcasm,disgust,Not Toxic
+146,146,1,UgzgySfkEn-MhJ8g8JN4AaABAg,@adishjain4513,"When he held hands of his father it gave me goosebumps, someone who didn't know Sheldon would think that's normal but that's a super generous act for Sheldon",43,0,2020-12-16T15:25:38Z,0.2416666666666666,0.6583333333333332,0.0,0.702,0.298,0.802,61.67,Not Sarcasm,anger,Not Toxic
+147,147,1,UgyXjoMbQXftBkmEUtF4AaABAg,@sonushinobu2050,300,0,0,2020-12-13T12:20:35Z,0.0,0.0,0.0,1.0,0.0,0.0,121.22,Not Sarcasm,sadness,Not Toxic
+148,148,1,UgyjOQ7LNxRd7F_xJ-p4AaABAg,@afterddread,I can’t believe that he wants to wear a bow,0,0,2020-12-11T05:07:09Z,0.2,0.1,0.0,1.0,0.0,0.0,92.8,Sarcasm,anger,Toxic
+149,149,1,Ugxc6Ud81H0hwGfocQN4AaABAg,@ashleyd720,I think Shelly knew about the scope of this virus before anyone,0,0,2020-12-08T20:23:46Z,0.0,0.0,0.0,1.0,0.0,0.0,99.23,Sarcasm,fear,Not Toxic
+150,150,1,UgwG-YROh8RXrqsKlWd4AaABAg,@anthonyperez8248,They should make a show called Young Leonard,3,0,2020-12-06T15:44:27Z,0.1,0.4,0.0,1.0,0.0,0.0,117.16,Not Sarcasm,disgust,Not Toxic
+151,151,1,UgwdieD5K9lwj6ySgA94AaABAg,@Iamthatkid,This where the fun begins,0,0,2020-12-04T17:40:24Z,0.3,0.2,0.0,0.233,0.767,0.5106,77.91,Not Sarcasm,sadness,Not Toxic
+152,152,1,UgxH85_HWHdckyEUfdd4AaABAg,@sarahdaniels3641,"Hello my name is Sarah and I'm 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Black",1,1,2020-12-01T20:08:33Z,-0.1666666666666666,0.4333333333333333,0.0,1.0,0.0,0.0,100.24,Not Sarcasm,sadness,Not Toxic
+153,153,1,UgxUTd2Bhcg-I_cDn7N4AaABAg,@slitick5160,I remember when I first watched this boy was I exited how his life as a famous genius began,1,0,2020-10-27T06:03:24Z,0.375,0.6666666666666666,0.0,1.0,0.0,0.0,45.42,Not Sarcasm,joy,Not Toxic
+154,154,1,UgymCBY48MXpgOeDiKN4AaABAg,@loraine6663,1:44 lmao 🤣,0,0,2020-10-16T11:51:38Z,0.6,1.0,0.0,0.413,0.587,0.7964,120.21,Not Sarcasm,sadness,Not Toxic
+155,155,1,UgwvBG2EDqwvFkzrDbd4AaABAg,@MrAdeezRhythm,i love his sister,0,0,2020-10-07T20:47:14Z,0.5,0.6,0.0,0.192,0.808,0.6369,77.91,Not Sarcasm,joy,Not Toxic
+156,156,1,UgzOGYSi5RX1MNIlNJd4AaABAg,@nchamundi1,"Even before Corona, holding others hands right before you have your food, grosses me out 🤢🤢",0,0,2020-10-01T17:29:38Z,0.2857142857142857,0.5357142857142857,0.122,0.878,0.0,-0.2023,71.82,Not Sarcasm,fear,Toxic
+157,157,1,UgxFi5GPbm9J6JYnxOV4AaABAg,@Smokey.Visuals,"Sheldon is smart in school subjects
+
+Georgie is a gifted mechanic 
+
+Missy is a social genius",21,0,2020-09-18T17:16:25Z,0.2492063492063492,0.5698412698412698,0.0,0.769,0.231,0.4019,44.41,Not Sarcasm,disgust,Toxic
+158,158,1,UgwFV3vvEHtxOG-XxEZ4AaABAg,@CJ-im2uu,Isn't that the Griswald's car?,0,0,2020-09-16T18:11:02Z,0.0,0.0,0.0,1.0,0.0,0.0,118.18,Not Sarcasm,guilt,Not Toxic
+159,159,1,UgylaOyz5QIC5exujrh4AaABAg,@leclamsx1140,Lol sheldon is my real name,0,0,2020-08-31T02:43:30Z,0.5,0.5,0.0,0.517,0.483,0.4215,75.88,Not Sarcasm,sadness,Not Toxic
+160,160,1,UgyVaNlFz8IGi-HN9wl4AaABAg,@kiyodante3778,"Quiero agradecer a todo el equipo que hizo posible esta serie, es una representación increible de como era, me parto de risa con el Sheldon de niño. Gracias por hacer semejante obra de arte, les doy todo mi respeto 🙏🙏🙏🙏🙏",7,0,2020-07-29T14:52:13Z,0.0,0.0,0.0,1.0,0.0,0.0,61.16,Not Sarcasm,anger,Not Toxic
+161,161,1,UgzvovB2TX4xOaV344p4AaABAg,@thedoctor2871,"Iain armitage, does look like Jim parsons.",3,0,2020-07-17T15:41:03Z,0.0,0.0,0.0,0.737,0.263,0.3612,90.77,Not Sarcasm,sadness,Not Toxic
+162,162,1,Ugw8fnfR-AeeoDe2wNB4AaABAg,@robertspiker6231,Sheldon is my guy,0,0,2020-07-16T22:26:14Z,0.0,0.0,0.0,1.0,0.0,0.0,77.91,Not Sarcasm,sadness,Not Toxic
+163,163,1,Ugy-Pwtl_R56SITTGft4AaABAg,@baybayoncarla4162,"I knew it, big bang theory is connected to young sheldon
+I watch big bang theory trailer a minute ago",3,0,2020-07-15T03:50:53Z,0.0333333333333333,0.1999999999999999,0.0,1.0,0.0,0.0,57.27,Not Sarcasm,shame,Toxic
+164,164,1,UgzNr-lL16l-0v0hK9x4AaABAg,@sameersharma4949,"Young sheldon was taught not to put the thermometer in the tea by his brother in the season 3 episode 10 but big sheldon puts it inside the tea in the season 6 episode 14 of big bang theory just to skip office and pretend to be sick. Sheldon, despite being smart, did it.",2,0,2020-07-14T18:18:26Z,-0.08,0.42,0.183,0.817,0.0,-0.7147,64.71,Not Sarcasm,disgust,Not Toxic
+165,165,1,UgwGJsMJ310w5m4hDEZ4AaABAg,@BongoYOUTUBE,Tbh sheldon wouldn’t survive as a hobo remamber when he went all around the USA he was tramatized because he got robbed,0,1,2020-07-12T22:17:23Z,0.0,0.0,0.0,1.0,0.0,0.0,68.77,Not Sarcasm,guilt,Toxic
+166,166,1,UgyqKAxhqMiv8SyQ0xx4AaABAg,@RTWLR,"Nobody likes a rat
+
+
+
+
+Or in this case, a *mouse*",0,0,2020-07-12T06:17:21Z,0.0,0.0,0.0,0.714,0.286,0.4215,100.24,Sarcasm,disgust,Not Toxic
+167,167,1,UgxtVAfLNAg9x6sDVT54AaABAg,@bigbob1699,Smart but dumb.,0,0,2020-07-12T01:49:33Z,-0.0803571428571428,0.5714285714285714,0.471,0.143,0.386,-0.1531,120.21,Not Sarcasm,sadness,Toxic
+168,168,1,Ugy-wOGDn3eiwC2S7sR4AaABAg,@benjaminnutter5568,so smart but so dumb,0,0,2020-07-10T01:30:20Z,-0.0803571428571428,0.5714285714285714,0.55,0.0,0.45,-0.1531,120.21,Not Sarcasm,sadness,Not Toxic
+169,169,1,UgyUJBxZmSqD6bmYpV54AaABAg,@Error-ij8fi,"Zoe Perry (Mary Cooper/The Mom), acts like a good mom.",3,1,2020-07-08T01:01:00Z,0.7,0.6000000000000001,0.0,0.671,0.329,0.6597,96.18,Not Sarcasm,sadness,Not Toxic
+170,170,1,UgxYW4zyEYP6NX9YXpJ4AaABAg,@mintodoodle5108,There There!,0,0,2020-07-06T15:07:09Z,0.0,0.0,0.0,1.0,0.0,0.0,206.84,Not Sarcasm,sadness,Not Toxic
+171,171,1,UgyxQGK6bN91VehfHkh4AaABAg,@snowy2242,What was wrong with his teeth in the first episode,6,1,2020-07-01T14:48:17Z,-0.125,0.6166666666666667,0.508,0.492,0.0,-0.4767,118.18,Not Sarcasm,joy,Not Toxic
+172,172,1,Ugwzk-8SZPqbiO4Fn0d4AaABAg,@servicarrider,This is the only Communist Party USA network show that I watch. The only post American show.,1,0,2020-06-24T08:31:43Z,0.0,0.0,0.0,0.787,0.213,0.4019,58.45,Not Sarcasm,guilt,Not Toxic
+173,173,1,UgzbE5as8CqCxLBDEzF4AaABAg,@hannah_9832,"Sheldon = Amy and Sheldon's kid (Just imagine him with other name)
+
+Missy = Penny and Leonard's daughter.",3,0,2020-06-10T05:57:41Z,0.0,0.0,0.0,1.0,0.0,0.0,67.76,Not Sarcasm,disgust,Toxic
+174,174,1,UgzjFinohIcd1pf2I5p4AaABAg,@Tabbychu,"Looking back at this 3 years later, it's amazing seeing how much these kids have grown between then and now in the third season. They're adorable kids!",118,3,2020-06-08T02:33:04Z,0.2375,0.35,0.0,0.7,0.3,0.807,88.74,Not Sarcasm,disgust,Not Toxic
+175,175,1,UgxI45dAp9ZEfc--aDt4AaABAg,@niranjanpathak1970,Thats gotta hurt. 15!!!! Wut?? 3:40 plus no one wanted to know that fact,0,0,2020-06-07T23:22:43Z,0.0,0.0,0.215,0.785,0.0,-0.7121,107.69,Not Sarcasm,guilt,Not Toxic
+176,176,1,UgyYSgb-bOrvw-tXxJB4AaABAg,@jorielynmartizano2766,Song title? 5:03,0,0,2020-06-07T09:49:19Z,0.0,0.0,0.0,1.0,0.0,0.0,93.81,Not Sarcasm,sadness,Not Toxic
+177,177,1,UgzY9f7rrLctwTyXiF54AaABAg,@CINDYCINTIA1,Me encanta la serie! Espero la continuación 💘,3,0,2020-06-01T07:15:29Z,0.0,0.0,0.0,0.667,0.333,0.6696,34.59,Not Sarcasm,sadness,Not Toxic
+178,178,1,UgzoceLm8cT049w6I5B4AaABAg,@lc-bj4sp,Sheldon’s dad is Leonard’s high school bully,2,0,2020-05-27T10:15:49Z,0.16,0.5399999999999999,0.314,0.686,0.0,-0.4939,90.77,Not Sarcasm,sadness,Not Toxic
+179,179,1,UgxLNqnY8P2ofUGvPG14AaABAg,@VivekGupta-mf1kk,Is that available in hindi or with english subtitles,0,0,2020-05-19T16:20:13Z,0.2,0.2,0.0,1.0,0.0,0.0,8.2,Not Sarcasm,disgust,Not Toxic
+180,180,1,UgwNecHZTT3c78UFfSV4AaABAg,@gsmokey6957,Don’t really like the Big Bang theory but thinking about watching this,0,0,2020-05-09T10:22:03Z,0.1,0.15,0.0,0.715,0.285,0.4201,38.99,Not Sarcasm,sadness,Not Toxic
+181,181,1,UgwAjV8dJ7PYAbU6VpB4AaABAg,@zhubi1739,Can’t! They haven’t descended yet,0,0,2020-05-06T06:21:22Z,0.0,0.0,0.0,1.0,0.0,0.0,35.61,Sarcasm,sadness,Not Toxic
+182,182,1,UgxwaAoJVjhUSi9HkX94AaABAg,@PindDiStream,Is this on Netflix,1,2,2020-05-03T06:08:08Z,0.0,0.0,0.0,1.0,0.0,0.0,36.62,Not Sarcasm,disgust,Toxic
+183,183,1,UgxtEqIaRcFGrYhfJtZ4AaABAg,@yourcommentmightnotworksop9987,"Wohhh their voice HAS DRAMATICALLY Changed,im on s3 now man they've grown.",2,0,2020-05-03T04:34:51Z,0.0,0.0,0.0,1.0,0.0,0.0,79.26,Sarcasm,disgust,Toxic
+184,184,1,Ugyy6SRDV7bQ_IQJX6B4AaABAg,@vain1185,3:15 curb your logic..,0,0,2020-05-03T03:06:18Z,0.0,0.0,0.0,1.0,0.0,0.0,93.81,Not Sarcasm,sadness,Toxic
+185,185,1,UgxVwJzLsKW9LzYtklR4AaABAg,@ichisukeryu119,“Go play!”    ..”there... i played”,9,0,2020-05-02T20:02:43Z,0.0,0.0,0.0,0.611,0.389,0.6239,119.19,Not Sarcasm,guilt,Not Toxic
+186,186,1,UgyZpvvTQtq0Uvsefxx4AaABAg,@Aragorn-wp2xm,georgie looks a kid here,0,0,2020-05-01T10:03:57Z,0.0,0.0,0.0,1.0,0.0,0.0,119.19,Not Sarcasm,sadness,Not Toxic
+187,187,1,UgzMAj7ry3zLDwsXS0B4AaABAg,@98innocent33,"All of Mr. Coopers kids are smart in different ways
+Sheldon: intellectually smart  
+George: Street smart
+Missy: Perspective smart",1275,30,2020-04-29T19:41:58Z,0.1714285714285714,0.6342857142857142,0.0,0.496,0.504,0.9042,39.33,Not Sarcasm,disgust,Toxic
+188,188,1,Ugymjm71lW3lc2bw4EB4AaABAg,@Pernell13489,Love this show but I guess I never saw the one.,0,0,2020-04-29T19:21:23Z,0.5,0.6,0.0,0.588,0.412,0.6369,99.23,Not Sarcasm,disgust,Not Toxic
+189,189,1,UgwrCTNnUqe1qh2Le_t4AaABAg,@mgeller3266,His teeth god these child grew so fast,0,0,2020-04-29T10:23:22Z,0.2,0.6,0.0,0.656,0.344,0.2732,117.16,Not Sarcasm,sadness,Toxic
+190,190,1,UgyBI89US7VKTqre3fN4AaABAg,@gabonskideveyra6320,I feel like im watching problem child 2 but a nerd jr. Healy,5,0,2020-04-27T05:51:02Z,0.0,0.0,0.34,0.486,0.174,-0.34,95.17,Sarcasm,disgust,Not Toxic
+191,191,1,Ugyi0Co4iQE5SShJwe94AaABAg,@kingsleysh8070,I don't want a young Howard show for a multitude of reasons,4,0,2020-04-26T14:46:46Z,0.1,0.4,0.169,0.831,0.0,-0.0572,81.29,Not Sarcasm,guilt,Not Toxic
+192,192,1,UgyVCHZfprmgeicCGmR4AaABAg,@clementryu985,No offence sheldon does look different to his family :),1,0,2020-04-22T12:08:14Z,0.25,0.8,0.268,0.732,0.0,-0.296,15.64,Not Sarcasm,sadness,Toxic
+193,193,1,UgxR5VzlGYj7Ia5nYXl4AaABAg,@labradormcgraw,They could not have chosen a better actor to play Sheldon's younger self. Iain is super-talented. Love this show.,65,1,2020-04-16T08:13:28Z,0.3333333333333333,0.3666666666666667,0.0,0.578,0.422,0.8591,58.28,Not Sarcasm,joy,Not Toxic
+194,194,1,Ugx7nSKLcw7-ivMXlOR4AaABAg,@pavanagrawal6012,I like mary's role very much she is just like an Indian mother I have never seen something like this before,1,0,2020-04-13T16:50:28Z,0.2,0.2,0.131,0.559,0.31,0.4386,76.22,Not Sarcasm,fear,Not Toxic
+195,195,1,Ugzbde2llSsKRJ11ZLJ4AaABAg,@amukerje,sheldon is one of the most cuttest kids i hv ever seen ...he is adorable,24,0,2020-04-12T15:40:46Z,0.5,1.0,0.0,0.714,0.286,0.4939,88.74,Not Sarcasm,guilt,Toxic
+196,196,1,UgwS3bIT0UeIAt60C9d4AaABAg,@intuition6675,So wish I were as smart as Sheldon!!,2,0,2020-04-12T10:15:52Z,0.3348214285714285,0.6428571428571429,0.0,0.334,0.666,0.717,93.81,Not Sarcasm,guilt,Not Toxic
+197,197,1,Ugz4Ri-e3110aBsBKO94AaABAg,@LoonaVanza,What happened 17 years later?,0,0,2020-04-09T07:54:04Z,0.0,0.0,0.0,1.0,0.0,0.0,75.88,Not Sarcasm,sadness,Not Toxic
+198,198,1,UgxozpMrrwkvIrouFQN4AaABAg,@rem2274,baznigga,1,0,2020-04-04T03:26:34Z,0.0,0.0,0.0,1.0,0.0,0.0,36.62,Not Sarcasm,sadness,Not Toxic
+199,199,1,UgwdPTiXkTeK4UUho2h4AaABAg,@isaiahjones5681,1:14 well he might right now,1,0,2020-04-02T03:44:40Z,0.2857142857142857,0.5357142857142857,0.0,0.588,0.412,0.2732,118.18,Sarcasm,sadness,Not Toxic
+200,200,1,UgwNduUgr5uLfupDRoR4AaABAg,@y11eetttt,Seldon you ar won crazy boy,1,0,2020-03-31T16:19:27Z,-0.6,0.9,0.444,0.556,0.0,-0.34,92.8,Not Sarcasm,joy,Toxic
+201,201,1,UgytU24-cC0n3aTVKHh4AaABAg,@nasrinsultana8427,Sheldon,0,0,2020-03-30T14:58:11Z,0.0,0.0,0.0,1.0,0.0,0.0,36.62,Not Sarcasm,sadness,Not Toxic
+202,202,1,Ugw4n6x9quuNwvG8UkR4AaABAg,@beepduck,When he says perhaps I’ll start a fad you can tell it’s Sheldon,31,0,2020-03-29T16:17:12Z,0.0,0.0,0.0,0.787,0.213,0.2263,90.77,Not Sarcasm,guilt,Not Toxic
+203,203,1,UgxmW-rVejt_0JozVX54AaABAg,@nallanchakravarthy4849,Washing hands for dinner so apt... Given virus today...,1,0,2020-03-25T15:13:57Z,0.6,1.0,0.0,1.0,0.0,0.0,67.92,Sarcasm,sadness,Not Toxic
+204,204,1,UgzAeOFheKqvOeIwaxp4AaABAg,@cloverjay4998,Young Sheldon is Indeed a Sagittarius,1,0,2020-03-24T07:00:17Z,0.1,0.4,0.0,1.0,0.0,0.0,33.58,Not Sarcasm,anger,Toxic
+205,205,1,UgxzA5WmfwW31mVBMHR4AaABAg,@gero3838,BIG BRAIN,0,0,2020-03-23T19:11:31Z,0.0,0.1,0.0,1.0,0.0,0.0,120.21,Not Sarcasm,sadness,Toxic
+206,206,1,UgyEAyhnmTUr0uyHqWR4AaABAg,@sammansarfraz7153,Sheldon's mom is so pretty!,0,1,2020-03-23T18:59:22Z,0.3125,1.0,0.0,0.534,0.466,0.5411,75.88,Not Sarcasm,guilt,Not Toxic
+207,207,1,UgyLqsBBL8Z5LPiqZbR4AaABAg,@bruhmirlol992,"""Thanks to the invention of purell"" GOT ME DYING HAHAHAHAHA",55,0,2020-03-23T09:58:33Z,0.2,0.4,0.0,0.707,0.293,0.4404,14.63,Not Sarcasm,sadness,Not Toxic
+208,208,1,Ugyc--OWvrlq-iwDooJ4AaABAg,@kalebsambrook6266,Sheldon will be the last person to be infected with the Corona virus,0,0,2020-03-21T03:03:10Z,0.0,0.0666666666666666,0.39,0.61,0.0,-0.4939,48.47,Not Sarcasm,disgust,Toxic
+209,209,1,UgwST8iByv47SGX2RYl4AaABAg,@eduardochavacano,This is look like a very great series and I never like Big Bang Theory. But this show is changing that. Sheldon is apparently very interesting. I hope this will end up in Netflix.,0,0,2020-03-21T00:38:23Z,0.4333333333333333,0.45,0.07,0.528,0.403,0.8776,48.77,Not Sarcasm,joy,Not Toxic
+210,210,1,UgzR3llqDXf97pJb4C54AaABAg,@YOURSDAILYPOD,"1:09 sheldon is pretty dumb there . He said think i have a twin sister . Parents can adopt twins , sheldon should think more",9,2,2020-03-20T22:10:06Z,-0.0625,0.75,0.156,0.613,0.231,0.1531,84.03,Not Sarcasm,shame,Not Toxic
+211,211,1,UgwWxtcTc-QFAPKoVdx4AaABAg,@bettycogswell9851,I love this show and can't get enough of it. I love all the characters and story lines. I wait every week for it. The actors are amazing...,52,0,2020-03-19T15:16:50Z,0.4,0.65,0.0,0.567,0.433,0.9217,83.32,Not Sarcasm,guilt,Not Toxic
+212,212,1,UgzJwHu2qZakCzOHEoR4AaABAg,@boomcrack3440,Hahahaha love this,2,0,2020-03-19T03:25:34Z,0.35,0.55,0.0,0.192,0.808,0.6369,-6.7,Not Sarcasm,joy,Not Toxic
+213,213,1,Ugyd_EV8uA-5uCA3Hy14AaABAg,@xoitlajeno4005,"""Think monkey, think."" Xd bruhhhhh god damn this dood sheldon anhialated his brother.",1,0,2020-03-17T07:33:00Z,-0.05,0.0,0.125,0.602,0.273,0.4939,57.43,Not Sarcasm,sadness,Not Toxic
+214,214,1,UgyBncUXOCSTzb9WDzt4AaABAg,@eliterairu8436,I like young him more,1,0,2020-03-17T01:34:28Z,0.1,0.4,0.0,0.286,0.714,0.3612,120.21,Not Sarcasm,guilt,Toxic
+215,215,1,UgxZSrC-TGSnfzwpeM54AaABAg,@tauhid9983,bruhhh these kids have grown up wayyy to fast in 3 years. Especially Gorgie,3,0,2020-03-16T10:34:24Z,0.1,0.8,0.0,1.0,0.0,0.0,79.26,Not Sarcasm,sadness,Toxic
+216,216,1,Ugx3WGgGRTQfNnWjnm54AaABAg,@ace3051,His fired,0,0,2020-03-16T05:07:40Z,0.0,0.0,1.0,0.0,0.0,-0.5574,121.22,Not Sarcasm,sadness,Toxic
+217,217,1,UgylI99Z7ivr6lnDWnF4AaABAg,@ace3051,Gym bag,0,0,2020-03-16T05:04:53Z,0.0,0.0,0.0,1.0,0.0,0.0,120.21,Sarcasm,sadness,Toxic
+218,218,1,UgxWvLUnPds5NaSMfbh4AaABAg,@ace3051,Wtf sheldon,0,0,2020-03-16T05:02:59Z,-0.5,1.0,0.792,0.208,0.0,-0.5859,77.91,Not Sarcasm,sadness,Not Toxic
+219,219,1,Ugxy4-qHdO7eXV99QTF4AaABAg,@AxlMcFlyiverson,2:26 lil snitch,6,0,2020-03-16T01:59:30Z,0.0,0.0,0.0,1.0,0.0,0.0,119.19,Not Sarcasm,sadness,Not Toxic
+220,220,1,UgwhK6xqp7NlmWFIdX54AaABAg,@hectoraarlott,"if you relate to Sheldon you're relating to the embodiment of autism
+*likes trains*
+*human contact terrifies him*
+*plays weird*
+*don't understand social cues even tho he is a genius*
+I don't get how it isn't obvious",1,1,2020-03-15T14:50:35Z,-0.1166666666666666,0.4166666666666667,0.139,0.735,0.126,-0.128,38.66,Not Sarcasm,sadness,Toxic
+221,221,1,Ugz6e5tT5yS2sAf5uRp4AaABAg,@bunnydiary1234,Can anyone tell me where i can watch this show with subtitle?,0,0,2020-03-15T11:34:00Z,0.0,0.0,0.0,1.0,0.0,0.0,66.4,Not Sarcasm,sadness,Not Toxic
+222,222,1,Ugzg_8-9_Ng1dylSAEl4AaABAg,@simonjithink2117,that was a heart touching moment for me when he removed his mittens and touched his fathers hands and the looks of the parents and son melted even more......feeling like crying...really touched my heart,674,7,2020-03-14T14:26:24Z,0.1666666666666666,0.4333333333333333,0.098,0.503,0.399,0.8617,65.08,Not Sarcasm,anger,Not Toxic
+223,223,1,UgwfrDwDD8JGBJYR-FZ4AaABAg,@laistaveiros1566,3:00 what is the music??,1,0,2020-03-14T02:28:23Z,0.0,0.0,0.0,1.0,0.0,0.0,77.91,Not Sarcasm,sadness,Toxic
+224,224,1,UgzeFBkcQ8OXg4rZLrV4AaABAg,@tabatha5286,Sheldon knew about coronavirus before everyone.,2054,49,2020-03-13T22:07:59Z,0.0,0.0,0.0,1.0,0.0,0.0,8.2,Not Sarcasm,fear,Toxic
+225,225,1,UgxlqyEmN9Nl3W-NRTx4AaABAg,@dechenwangmo7569,I cried when he held his hand out of mitten and held his father's hand 🥺😭😭😭,194,1,2020-03-13T05:36:39Z,0.0,0.0,0.38,0.415,0.204,-0.6705,88.74,Sarcasm,guilt,Toxic
+226,226,1,UgwP2-eqVmlf41in3tl4AaABAg,@explicit9434,Is he from the Big Bang theory,0,0,2020-03-07T01:00:16Z,0.0,0.1,0.0,1.0,0.0,0.0,59.97,Not Sarcasm,disgust,Toxic
+227,227,1,UgzuUVgyc7rttgzhlnx4AaABAg,@kimannatomkova6557,😂😂😂 Well... Young Penny would be hillarious,2,1,2020-03-05T22:50:11Z,0.1,0.4,0.172,0.422,0.407,0.8689,66.4,Sarcasm,sadness,Not Toxic
+228,228,1,UgzvQOk_YeEMnkJNRFB4AaABAg,@Trop1cal_duh,3:5 it changes colour,2,0,2020-02-27T07:01:58Z,0.0,0.0,0.0,1.0,0.0,0.0,119.19,Not Sarcasm,sadness,Not Toxic
+229,229,1,UgxrBuj77J2cNCryfqx4AaABAg,@babyr6669,3:22😂🤣,3,0,2020-02-24T13:50:36Z,0.0,0.0,0.112,0.473,0.414,0.7269,121.22,Not Sarcasm,sadness,Not Toxic
+230,230,1,UgzU45SZ8rYOuvIoC_14AaABAg,@jameshughes3890,"""Think monkey think"" will always be imprinted in my brain. I now have uncontrolled outburst of laughter at anytime. I get some strange looks I just laugh harder.    I❤YS",91,2,2020-02-23T03:54:57Z,0.0249999999999999,0.0625,0.128,0.642,0.23,0.6124,66.1,Sarcasm,guilt,Not Toxic
+231,231,1,Ugzxe3apEjfHHGMVT3J4AaABAg,@colinfrawley117,"Press this button if u want young sheldon on netflix
+l
+l
+l
+V",1,0,2020-02-20T22:48:45Z,0.1,0.4,0.0,0.405,0.595,0.8519,85.69,Not Sarcasm,disgust,Toxic
+232,232,1,Ugx1jGsCgXARKCbHDxZ4AaABAg,@gknee3,Love George and Georgie!,7,0,2020-02-13T14:15:01Z,0.625,0.6,0.0,0.4,0.6,0.6696,119.19,Not Sarcasm,joy,Not Toxic
+233,233,1,Ugw3RnQNoDlUnbHAbq94AaABAg,@neilpapamechail4396,SO SHeldon was born in 1980?,1,1,2020-02-11T21:00:05Z,0.0,0.0,0.0,1.0,0.0,0.0,93.81,Not Sarcasm,joy,Not Toxic
+234,234,1,UgzGTiea1EG5H3pmScZ4AaABAg,@yanasane661,I want a young Raj show,244,10,2020-02-10T10:17:54Z,0.1,0.4,0.0,0.698,0.302,0.0772,118.18,Not Sarcasm,guilt,Toxic
+235,235,1,UgzYFN7aWptngyHYWAF4AaABAg,@marcoreus9174,nice,0,0,2020-01-26T17:11:01Z,0.6,1.0,0.0,0.0,1.0,0.4215,121.22,Not Sarcasm,sadness,Not Toxic
+236,236,1,UgxBWOkMgtSDUu_1u694AaABAg,@sravvinashkumar,Thanks to the invention of purell,1,0,2020-01-03T17:16:12Z,0.2,0.2,0.0,0.408,0.592,0.4404,59.97,Not Sarcasm,sadness,Not Toxic
+237,237,1,UgxdAFafYJqEfWIaotx4AaABAg,@josephstanski5180,What a sweetie.,0,0,2019-12-18T01:48:09Z,0.0,0.0,0.0,0.238,0.762,0.4939,36.62,Not Sarcasm,sadness,Toxic
+238,238,1,UgwTko1bp5wFRz0O5LV4AaABAg,@tower961985,"Ok watching da trailer was so enough 2 me , no need to watch da series now 👍🏾👍🏾👍🏾👍🏾",0,0,2019-12-03T06:38:14Z,0.25,0.5,0.0,0.932,0.068,0.296,86.71,Not Sarcasm,anger,Not Toxic
+239,239,1,UgwvD9VH_lMoQBeFedh4AaABAg,@paulnicolaeslave1066,"Mom:Now go and Play
+Sheldon:""pushes a swing""
+Also Sheldo:There I played",3,0,2019-11-26T19:33:24Z,0.0,0.0,0.0,0.714,0.286,0.5859,79.26,Not Sarcasm,disgust,Not Toxic
+240,240,1,Ugwhe_jvfREAP094-t14AaABAg,@barbusie5217,I just might have to add this to my private collection ....,0,0,2019-11-25T15:17:27Z,0.0,0.375,0.0,1.0,0.0,0.0,50.5,Not Sarcasm,guilt,Not Toxic
+241,241,1,UgwAlVZw0HdYj3k-Vqd4AaABAg,@damnburger7351,Casting is brilliant. I like the show,3,0,2019-11-05T16:56:02Z,0.9,1.0,0.0,0.323,0.677,0.743,75.88,Not Sarcasm,sadness,Not Toxic
+242,242,1,UgwwjE5o1fTa5SnWyhV4AaABAg,@VuqarIE,entire cast is like champions league. perfect fit,4,0,2019-11-05T01:44:01Z,0.4666666666666666,0.6749999999999999,0.0,0.248,0.752,0.9022,64.37,Not Sarcasm,sadness,Not Toxic
+243,243,1,Ugx5xRZNa35SmnQarOd4AaABAg,@DaveFisher-cq2dr,NOW I WANT A YOUNG LEONARD SHOW,150,4,2019-11-05T01:37:43Z,0.1,0.4,0.0,0.698,0.302,0.0772,118.18,Not Sarcasm,guilt,Toxic
+244,244,1,UgwJhIeq1fRD-UkejvB4AaABAg,@phinecode6996,Put it on netflixxxxxx already,2,0,2019-10-28T05:11:24Z,0.0,0.0,0.0,1.0,0.0,0.0,59.97,Sarcasm,disgust,Not Toxic
+245,245,1,Ugy39xnsYkN1dzK76pJ4AaABAg,@eviewoodmore7816,"""GO PLAY!""
+
+
+
+Pushes swing. 
+
+""There i played.""",299,1,2019-10-21T12:26:59Z,0.0,0.0,0.0,0.632,0.368,0.7027,100.24,Not Sarcasm,guilt,Not Toxic
+246,246,1,Ugwukze8IhtZBRxpKB54AaABAg,@p3l1k44n1,"All of you are lucky and privileged that you can watch this show.. In my country, it's banned. 
+And nobody has uploaded the show on torrents or anywhere where i could download it.. Wish somebody could stream the show..",0,1,2019-10-14T18:04:57Z,0.3333333333333333,0.8333333333333334,0.096,0.637,0.268,0.6597,75.06,Not Sarcasm,disgust,Not Toxic
+247,247,1,UgxvuMndgRyn-l6oo3J4AaABAg,@humanbeing496,"Just for the record.. sheldon is the kind of kid my Indian parents always wanted me to be.
+
+EDIT: Thanks for the likes guys. -Shoutout to- ...I mean a moment of silence for all the Asian parents wanting their kids to be only like Sheldon.",1846,28,2020-07-26T04:04:36Z,0.121875,0.446875,0.0,0.683,0.317,0.891,72.12,Not Sarcasm,anger,Not Toxic
+248,248,1,Ugx_nC_v70skXiK7AM54AaABAg,@fhemmypaul187,🇳🇬,0,0,2019-10-10T15:07:13Z,0.0,0.0,0.0,1.0,0.0,0.0,206.84,Not Sarcasm,sadness,Not Toxic
+249,249,1,Ugzn8e1X1xKAhoJHZqp4AaABAg,@Entity005,Who air this tvshow?,0,0,2019-10-05T00:13:21Z,0.0,0.0,0.0,1.0,0.0,0.0,120.21,Not Sarcasm,disgust,Not Toxic
+250,250,1,UgzUgq6JnG7o_U0pPtR4AaABAg,@okthen7412,"“Nothing is wrong with him, now turn around before I knock your lights out!”
+
+
+
+
+“Hello”
+
+
+😆😆",490,3,2019-09-23T03:15:54Z,-0.625,0.9,0.0,0.671,0.329,0.7812,89.75,Not Sarcasm,fear,Toxic
+251,251,1,UgxSxpTnGSTr_b1Z07t4AaABAg,@rynnyroo8577,"Sheldon is one of a kind 😂
+And I love him for it 😂",53,0,2019-09-20T01:57:45Z,0.55,0.75,0.141,0.296,0.563,0.9246,92.8,Not Sarcasm,joy,Not Toxic
+252,252,1,Ugy9x6Ug3DuFehawXWx4AaABAg,@punkypeters207,Humans are doomed,0,0,2019-09-17T02:00:48Z,0.0,0.0,0.808,0.192,0.0,-0.6369,77.91,Not Sarcasm,sadness,Toxic
+253,253,1,UgymjoH2qLKcWVpQAxd4AaABAg,@dirt8617,It's big brain time,3,0,2019-09-10T07:42:40Z,0.0,0.1,0.0,1.0,0.0,0.0,118.18,Not Sarcasm,guilt,Not Toxic
+254,254,1,UgyPXdZVpgokv0Vv8TJ4AaABAg,@luckyboy-mj6vq,What name of tish movie,1,1,2019-09-01T13:41:19Z,0.0,0.0,0.0,1.0,0.0,0.0,119.19,Sarcasm,sadness,Toxic
+255,255,1,UgwpKLcRloflLdLEef94AaABAg,@luckyboy-mj6vq,What name of tish movie,1,1,2019-09-01T13:40:37Z,0.0,0.0,0.0,1.0,0.0,0.0,119.19,Sarcasm,sadness,Toxic
+256,256,1,UgzyKnkpMMB07A6BdWJ4AaABAg,@mannatkapoor812,"Uh , why on earth is Meemaw not a part of this!!! She was such a fundamental and badass character",16,0,2019-08-31T13:37:51Z,0.0,0.0,0.0,0.753,0.247,0.5067,59.46,Not Sarcasm,disgust,Not Toxic
+257,257,1,UgwhQeb1BbmCYH3WAX94AaABAg,@henrywaloch7918,.,0,0,2019-08-14T23:33:26Z,0.0,0.0,0.0,1.0,0.0,0.0,206.84,Not Sarcasm,sadness,Not Toxic
+258,258,1,UgwwOROUJBqvFiEx0U94AaABAg,@vedoibranovic3872,Sheldon said to the teacher you have bit of mustache 😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂,3,0,2019-08-08T09:41:52Z,0.0,0.0,0.217,0.348,0.435,0.9999,66.4,Not Sarcasm,shame,Toxic
+259,259,1,Ugy2gTsiPY59z2xQ8Kx4AaABAg,@vedoibranovic3872,😂😂😂😂😂😂😂😂😂😂😂😂😂 he’s wearing gloves at dinner table,2,0,2019-08-08T09:37:57Z,0.0,0.0,0.209,0.373,0.418,0.9879,50.5,Sarcasm,sadness,Toxic
+260,260,1,Ugz1kXhKnM1NJQGVqeF4AaABAg,@eclare1195,3:43 Am I the only one who gets lost on Sheldon's blue eyes? We don't get to see it closer in TBBT because of the studio set up but this,42,2,2019-08-06T17:07:38Z,0.0,0.1,0.133,0.867,0.0,-0.3182,97.7,Not Sarcasm,disgust,Not Toxic
+261,261,1,UgzDm4lzZUsFdTj6hyB4AaABAg,@vipe293,"Im done binging Season 1, and I only like the first half, they shouldnt bother calling the 2nd half 'Meemaw"", not that I hate her, I love her but Sheldon was almost non-existent by the final episodes of Season 1...and Missy deserves more airtime",6,1,2019-07-29T17:02:57Z,-0.0547619047619047,0.4523809523809524,0.092,0.692,0.216,0.6169,66.74,Not Sarcasm,joy,Not Toxic
+262,262,1,UgyFF1oke_fPHdXwBtp4AaABAg,@umaiskesolutions2271,He is an entj i gues,0,1,2019-07-28T11:30:13Z,0.0,0.0,0.0,1.0,0.0,0.0,77.91,Not Sarcasm,guilt,Toxic
+263,263,1,UgwtybUNNkKVOUMm1-x4AaABAg,@NickiG04,-sheldon mother and father 🤣,9,0,2019-07-27T13:04:07Z,0.0,0.0,0.0,0.686,0.314,0.4939,34.59,Not Sarcasm,sadness,Toxic
+264,264,1,UgzGalA8fHjMiaCETaV4AaABAg,@NickiG04,-oh God sheldon is just too much for me🤣,30,0,2019-07-27T13:02:31Z,0.2,0.2,0.0,0.602,0.398,0.6486,100.24,Not Sarcasm,sadness,Not Toxic
+265,265,1,Ugy9_av1zpNKpA5Zdjt4AaABAg,@NickiG04,-🤣,1,0,2019-07-27T13:02:03Z,0.0,0.0,0.0,0.61,0.39,0.4939,206.84,Not Sarcasm,sadness,Not Toxic
+266,266,1,Ugy_b4vedOzCW5dwZzZ4AaABAg,@coverroot5598,Can someone please tell me what is the song at the very end of the video,0,0,2019-07-17T04:03:43Z,0.0,0.0,0.0,0.685,0.315,0.3182,99.23,Not Sarcasm,anger,Not Toxic
+267,267,1,UgzQUf-Kau-ov3FaEmF4AaABAg,@fiestaayuwismiati6811,This is much” better than big bang theory. I love you sheldon,48,0,2019-07-17T00:34:44Z,0.3333333333333333,0.3999999999999999,0.0,0.496,0.504,0.7964,64.37,Not Sarcasm,joy,Not Toxic
+268,268,1,UgzTVEdmPFqZW2gMcyt4AaABAg,@endoramia8142,This is way better than the Big Bang Theory,3,0,2019-07-15T18:16:06Z,0.25,0.3,0.0,0.58,0.42,0.4404,66.4,Not Sarcasm,disgust,Toxic
+269,269,1,UgybJjV7lqxg3gNcwe14AaABAg,@BrightRomeo,"Best decade ever was the 80's, so I automatically like this series. Plus, he is cute and smart.",209,0,2019-07-10T01:45:29Z,0.5714285714285714,0.6476190476190476,0.0,0.47,0.53,0.9081,65.89,Not Sarcasm,disgust,Not Toxic
+270,270,1,UgzaB3jHA_0yhdt47ZB4AaABAg,@duskweavo1230,Mine descended when I was 8,5,2,2019-07-06T12:19:32Z,0.0,0.0,0.0,1.0,0.0,0.0,59.97,Not Sarcasm,sadness,Not Toxic
+271,271,1,Ugzd4GJaRWnvxpWck-V4AaABAg,@papaaids9362,I’m sorry to say this but if this kid was in my class he would off got beaten up every day,192,14,2019-07-05T00:03:04Z,-0.5,1.0,0.339,0.661,0.0,-0.4767,87.72,Not Sarcasm,guilt,Not Toxic
+272,272,1,UgzSg_l-4bxKHJ5YGKR4AaABAg,@texasmama3684,Think Monkey think...he had him there.,261,7,2019-06-25T03:23:21Z,-0.05,0.0,0.0,1.0,0.0,0.0,93.81,Sarcasm,guilt,Not Toxic
+273,273,1,UgzW78kKZWp3R1mxVeN4AaABAg,@christinenayshsuarez6046,😂,1,0,2019-04-05T06:06:01Z,0.0,0.0,0.218,0.345,0.437,0.4404,206.84,Not Sarcasm,sadness,Not Toxic
+274,274,1,Ugx4E87rijaBhMGOccR4AaABAg,@rneupane,I love gorgiee acting,6,0,2019-03-12T02:45:11Z,0.25,0.3,0.0,0.323,0.677,0.6369,93.81,Not Sarcasm,joy,Not Toxic
+275,275,1,UgwnnI7CGb0BbktBtj94AaABAg,@cheann9463,"“hey mom, look, that girl is pregnant”
+
+“congratulations”
+
+😂",2224,16,2019-03-01T00:21:15Z,0.3333333333333333,0.5,0.081,0.593,0.326,0.7783,48.47,Not Sarcasm,sadness,Toxic
+276,276,1,UgzzJapfENqUX8iPS-d4AaABAg,@chelseacrisostomo4720,I love this boy!,21,0,2019-02-26T13:57:15Z,0.625,0.6,0.0,0.308,0.692,0.6696,120.21,Not Sarcasm,joy,Not Toxic
+277,277,1,UgzEWZM0a0jSHqBgRFp4AaABAg,@janehale4479,Love it 😍,6,0,2019-02-09T21:00:54Z,0.5,0.6,0.0,0.294,0.706,0.802,121.22,Not Sarcasm,sadness,Not Toxic
+278,278,1,UgzliEB363FneALEazB4AaABAg,@hakimitokakamura7835,😭😭😜,0,0,2019-01-31T07:27:01Z,0.0,0.0,0.437,0.563,0.0,-0.7351,206.84,Not Sarcasm,sadness,Not Toxic
+279,279,1,UgxBLdtISVXEFdaKnqF4AaABAg,@LorraineEJSoutar,man it is going to be brutal if we have to watch them kill off Sheldon's dad,57,0,2019-01-21T20:55:48Z,-0.875,1.0,0.595,0.405,0.0,-0.8689,80.28,Not Sarcasm,disgust,Toxic
+280,280,1,Ugxa41h7kQQ0zJnqVMB4AaABAg,@ericc1654,sheldon’s mom is a hot mama,8,0,2019-01-15T10:00:23Z,0.25,0.8500000000000001,0.0,1.0,0.0,0.0,75.88,Not Sarcasm,guilt,Not Toxic
+281,281,1,UgzWsAG3W6u7_eBuO2Z4AaABAg,@jonathankleinsasser867,i love him so much,4,0,2018-12-29T20:01:55Z,0.35,0.4,0.0,0.192,0.808,0.6369,120.21,Not Sarcasm,joy,Not Toxic
+282,282,1,UgwiJIBWkChcDWv-3AJ4AaABAg,@mareeve2848,Where to watch full episodes?,5,0,2018-12-22T06:38:43Z,0.35,0.55,0.0,1.0,0.0,0.0,119.19,Not Sarcasm,sadness,Toxic
+283,283,1,Ugw-KLKdU2NIXj8nRm14AaABAg,@samcastillo8977,"sheldon is born in 1973, he's age is 9 and its 1989 that means sheldon is really born in 1980",16,9,2018-12-12T13:28:42Z,0.2,0.2,0.0,1.0,0.0,0.0,84.68,Not Sarcasm,joy,Toxic
+284,284,1,UgwbhDZ7drV9reLGOw54AaABAg,@niojataj,"I must say It's a Wonderful show very Whimsical and humorous, please social justice Warriors don't ruin this.",67,0,2018-11-25T00:11:19Z,0.2583333333333333,0.6416666666666667,0.0,0.355,0.645,0.9368,41.36,Not Sarcasm,shame,Not Toxic
+285,285,1,Ugwe77rjPMML1eViTYx4AaABAg,@vlastik,Missy is underrated. She is the real genius. Sheldon is just mathematically gifted.,968,39,2018-11-11T16:29:37Z,0.35,0.65,0.0,1.0,0.0,0.0,-45.62,Not Sarcasm,sadness,Toxic
+286,286,1,UgxhrM_dy3zQYNeO7NJ4AaABAg,@jonrosenlof3536,created to humiliate people of faith.,8,3,2018-10-23T23:13:02Z,0.0,0.0,0.34,0.194,0.466,0.0772,-8.73,Not Sarcasm,disgust,Toxic
+287,287,1,UgxAcylDkIpOoNhAJFx4AaABAg,@myra8912,When is it coming on netflix,78,2,2018-09-29T18:00:07Z,0.0,0.0,0.0,1.0,0.0,0.0,35.61,Not Sarcasm,disgust,Not Toxic
+288,288,1,Ugxz8StFsP7YCglGLpV4AaABAg,@user-ti2xi9bd4u,No,3,0,2018-09-01T20:00:00Z,0.0,0.0,0.0,0.0,0.0,0.0,206.84,Not Sarcasm,guilt,Toxic
+289,289,2,UgwbW9mYMsCnk608Ifd4AaABAg,@jenniferskorczewski3573,I can't help it! Operation? I have had two splinters in my life from metal! Can you imagine if it was a metal shard!,0,0,2023-12-05T00:06:01Z,0.0,0.0,0.183,0.817,0.0,-0.4826,67.72,Not Sarcasm,guilt,Not Toxic
+290,290,2,UgwBX2RLmot2zIM8ush4AaABAg,@moniquebailey5514,Can  you  visit  me  in Jamaica 🇯🇲,0,0,2023-12-04T00:45:56Z,0.0,0.0,0.0,1.0,0.0,0.0,35.61,Not Sarcasm,sadness,Not Toxic
+291,291,2,UgxPniEbDZTiN9twkGF4AaABAg,@mingming7078,Sheldon got a splinter :nooooooooooooo😱😱😱😱,1,0,2023-12-03T07:16:28Z,0.0,0.0,0.641,0.359,0.0,-0.969,75.88,Not Sarcasm,joy,Not Toxic
+292,292,2,UgxXkdo8L5GuFzJvMUB4AaABAg,@SofiRdiz,1:00 1:13,0,0,2023-11-24T21:22:41Z,0.0,0.0,0.0,1.0,0.0,0.0,120.21,Not Sarcasm,sadness,Toxic
+293,293,2,UgzxhYyGiC8YlD7SJ3V4AaABAg,@Rose11133,"Personally hearing everyone talk about the annoying pain of splinters I was so confused as a kid because I never knew what it was and know that I’m older I realize I’m so lucky to have never experienced paper cuts, splinters, and brain freezes.",3,0,2023-11-18T12:34:52Z,-0.1833333333333333,0.6611111111111111,0.268,0.598,0.134,-0.5736,23.77,Sarcasm,fear,Not Toxic
+294,294,2,Ugxl8BpymvLaQKrbhSF4AaABAg,@Caotaki,"Me personally, I never in my life had a splinter",0,0,2023-11-13T21:12:18Z,0.0,0.3,0.0,1.0,0.0,0.0,8.2,Not Sarcasm,anger,Not Toxic
+295,295,2,UgyT-AF0j5x7Ob14heZ4AaABAg,@KrazyDragonz,erohr,0,0,2023-11-02T01:18:10Z,0.0,0.0,0.0,1.0,0.0,0.0,121.22,Not Sarcasm,sadness,Not Toxic
+296,296,2,UgzVl5e2TBtadIWvjWx4AaABAg,@brennanpeoples2089,""" whats gowze"" * ""it's gauze"" * damn sheldon",0,0,2023-11-01T22:36:23Z,0.0,0.0,0.197,0.803,0.0,-0.4019,99.23,Not Sarcasm,guilt,Not Toxic
+297,297,2,UgwDWIbxnZh8tBB9etZ4AaABAg,@bareh__07,They are so cute such a beautiful movie.,1,0,2023-10-13T16:28:06Z,0.675,1.0,0.0,0.225,0.775,0.7845,59.97,Not Sarcasm,disgust,Not Toxic
+298,298,2,Ugx9O8MmvCJ61olhwnZ4AaABAg,@Victoriastroud-yr3bh,Missy is only naughty cause her name,0,0,2023-10-09T19:41:25Z,-0.15,0.9,0.0,1.0,0.0,0.0,92.8,Not Sarcasm,sadness,Toxic
+299,299,2,Ugw-JNbfRJ_18Q02_ll4AaABAg,@AndyMazuma-bq7uc,I feel bad,0,0,2023-10-09T17:59:59Z,-0.6999999999999998,0.6666666666666666,0.778,0.222,0.0,-0.5423,120.21,Not Sarcasm,guilt,Not Toxic
+300,300,2,UgyoL86abp64G51iFOV4AaABAg,@spam41306,The Scream that Young Sheldon made😂😂😂😂😂,4,0,2023-09-22T17:00:34Z,0.1,0.4,0.248,0.366,0.386,0.8957,92.8,Not Sarcasm,sadness,Not Toxic
+301,301,2,Ugyz6KneCiOMqlCBd1h4AaABAg,@user-wl7tb3fi4f,I GOT A SPLINTER 😂😂😊,2,0,2023-09-20T00:13:07Z,0.0,0.0,0.134,0.387,0.479,0.8957,77.91,Not Sarcasm,joy,Not Toxic
+302,302,2,UgwKmcix50ka4sQKPGV4AaABAg,@jwood8397,My mom would put bread that had been soaked in milk over the splinter over night and it’d be in the bread in the morning. I threw a fit if they tried to use tweezers.,3,0,2023-09-10T03:05:26Z,0.4,0.4,0.0,0.872,0.128,0.3612,97.7,Not Sarcasm,fear,Not Toxic
+303,303,2,UgxQ3BNazR3JPbJ-jlN4AaABAg,@danielhainline8882,He could wait for his body to reject the splinter.  We shed our skin and the shed skin can take the splinter with it.,0,0,2023-08-24T18:48:15Z,0.0,0.0,0.184,0.816,0.0,-0.4019,91.27,Not Sarcasm,anger,Toxic
+304,304,2,Ugwg5UM4MHzntQ__5xl4AaABAg,@AchumilePeter,"Love your videos
+Have the best day ever ❤",1,0,2023-08-20T13:44:53Z,0.75,0.4499999999999999,0.0,0.241,0.759,0.9274,100.24,Not Sarcasm,joy,Not Toxic
+305,305,2,UgzAvfoL6E5hjR3wcIF4AaABAg,@clm0208,What movie is Missy watching? The guy seems to have upper body naked? 👀,0,0,2023-08-14T07:33:22Z,0.0,0.2,0.0,1.0,0.0,0.0,84.34,Sarcasm,disgust,Toxic
+306,306,2,Ugx33E8nNDbEVNWNTKd4AaABAg,@georgeelder3042,Why do I feel like missy is smarter than sheldon,1,0,2023-08-10T14:07:27Z,0.0,0.0,0.0,0.353,0.647,0.6705,83.32,Not Sarcasm,disgust,Not Toxic
+307,307,2,UgzAb7YwrEkdO74fJyx4AaABAg,@mumtaheentasnimaprokrity1011,"Ok missy was great and fun and most of the times I liked her more than sheldon.but since she started middle school,she became all disobedient,gave her parents shit and became selfish.like stealing your dad's truck isn't what you do to get on your parents good side.so DUMB",0,0,2023-08-01T17:28:08Z,0.290625,0.51875,0.285,0.457,0.258,-0.3268,70.5,Not Sarcasm,anger,Toxic
+308,308,2,UgwB61KdDxy25_ar2X14AaABAg,@kingsleyisaac819,Missy is a Legend,2,0,2023-07-24T20:26:50Z,0.0,0.0,0.0,1.0,0.0,0.0,35.61,Not Sarcasm,sadness,Toxic
+309,309,2,UgzlTxUCTmxtN1NDngN4AaABAg,@na-ra8701,Please tell me where can I watch sheldon series ?,0,2,2023-07-18T16:51:04Z,0.0,0.0,0.0,0.685,0.315,0.3182,83.32,Not Sarcasm,sadness,Not Toxic
+310,310,2,UgzmL_00oIR0t8HGAEd4AaABAg,@zoeberesford9358,Everyone has splinter.,0,1,2023-07-16T07:54:14Z,0.0,0.0,0.0,1.0,0.0,0.0,-6.7,Sarcasm,sadness,Toxic
+311,311,2,UgyKs1taYgVKU86TlqR4AaABAg,@mohammedyahya4163,and sometimes her mustach 😂😂,1,0,2023-07-13T08:26:11Z,0.0,0.0,0.196,0.412,0.392,0.7003,35.61,Not Sarcasm,sadness,Toxic
+312,312,2,UgzTxnkOtB1PzdcsBjR4AaABAg,@klaudiastulajterova7995,2:58 a 2:59😂😂😂😂😂,2,0,2023-07-09T11:22:12Z,0.0,0.0,0.209,0.374,0.418,0.926,120.21,Not Sarcasm,sadness,Not Toxic
+313,313,2,UgxELN96cB-O2LgZqhR4AaABAg,@klaudiastulajterova7995,2:19 a 2:20😂😂😂😂😂😂😂😂,1,0,2023-07-09T11:20:27Z,0.0,0.0,0.212,0.363,0.425,0.969,120.21,Not Sarcasm,sadness,Toxic
+314,314,2,UgyQEOWAaSBuQ9XZGKl4AaABAg,@msharma5069,"Young sheldon slowly became more lovely than TBBT, the minute observance of director is amazing for a childhood depiction, they even put splinter in script😘🥰❤️",3,0,2023-07-07T16:49:47Z,0.225,0.6125,0.0,0.576,0.424,0.9565,38.32,Not Sarcasm,disgust,Not Toxic
+315,315,2,Ugzir9m4nnMpH5WVV7h4AaABAg,@Queen_Springsteen,He’s so dramatic 😂,5,0,2023-06-29T14:23:23Z,-0.4333333333333333,0.6,0.178,0.467,0.355,0.4404,-47.99,Not Sarcasm,guilt,Toxic
+316,316,2,Ugwiln6tmKleRbjrM154AaABAg,@NondumisoNkosi-mf8rv,Chdhdhfhg,0,0,2023-06-25T17:24:48Z,0.0,0.0,0.0,1.0,0.0,0.0,-47.99,Not Sarcasm,sadness,Not Toxic
+317,317,2,UgzhLf1Uhj9KIvELU-p4AaABAg,@saranox6332,Kids fear them...As an adult I still fear them XD!,11,0,2023-06-10T01:17:28Z,0.125,0.3,0.412,0.308,0.279,-0.2867,116.15,Not Sarcasm,fear,Toxic
+318,318,2,UgxnflET4jtOtW8B3694AaABAg,@samojolbo7907,how is he so anoying why didnt they just beat him?,0,0,2023-06-08T04:14:28Z,0.0,0.0,0.0,1.0,0.0,0.0,59.97,Not Sarcasm,guilt,Toxic
+319,319,2,UgzOCmcOUSVpPrudtod4AaABAg,@wiamzemani,2:29 I love her 😂😂,21,1,2023-06-04T20:36:01Z,0.5,0.6,0.168,0.31,0.522,0.875,120.21,Not Sarcasm,joy,Not Toxic
+320,320,2,Ugz2uJrnDRNBFX0qIch4AaABAg,@Growgreen,"I’m okay with splinters but the one that I got so scared and cried from was a splinter in my nail and it was deep so when it slide my finger on something, it sometimes hurts because it’s moving and when my mom tried to take it out it kept on hurting and told my mom to bring me to the hospital",1,0,2023-05-29T20:39:36Z,0.25,0.45,0.321,0.625,0.054,-0.8555,64.04,Not Sarcasm,fear,Not Toxic
+321,321,2,Ugx7t9WyrEU5wnaKj9p4AaABAg,@Mariobros2825,Sheldon the goodie to shoes,1,0,2023-05-29T16:24:10Z,0.0,0.0,0.0,1.0,0.0,0.0,59.97,Not Sarcasm,sadness,Toxic
+322,322,2,UgzWb_3qMNQpPTytt6p4AaABAg,@stevenmarossy9064,Assewd sfsfdtedfddddswdds 2:02,0,0,2023-05-14T07:07:06Z,0.0,0.0,0.0,1.0,0.0,0.0,34.59,Not Sarcasm,sadness,Not Toxic
+323,323,2,UgyTu8plRcwwH2TxDD94AaABAg,@daisyrammutle2572,"Missy: ""what's gauze?""
+Sheldon: "" it's gauze and the fact that you don't know that it's not filling me with hope "".
+Me:😳😂😂😂",25,0,2023-05-07T12:32:59Z,0.0,0.0,0.112,0.608,0.28,0.891,90.77,Not Sarcasm,anger,Not Toxic
+324,324,2,Ugwn5MAxWj32zXvZnJJ4AaABAg,@daisyrammutle2572,"Sheldon: ""I handled that really welled""
+Me: 😂😂😂",10,0,2023-05-07T12:31:02Z,0.2,0.2,0.164,0.46,0.376,0.8553,33.58,Not Sarcasm,sadness,Not Toxic
+325,325,2,UgzguA2l1dOAV-hZdwV4AaABAg,@willmehaffy7226,Hi,0,0,2023-04-26T20:21:39Z,0.0,0.0,0.0,1.0,0.0,0.0,121.22,Sarcasm,sadness,Not Toxic
+326,326,2,UgztFpdrHDTgOoLtZE14AaABAg,@Natehillsdaughter,"""I love you and miss you very much""
+
+
+
+
+....
+
+
+*Ok*
+Has me dying bro 😭😭😭",6,0,2023-04-12T00:26:53Z,0.3999999999999999,0.4333333333333333,0.348,0.447,0.204,-0.5423,102.27,Not Sarcasm,joy,Not Toxic
+327,327,2,UgwvQVgKDeMbwRkA86l4AaABAg,@davetherave3511,Which decent parent leaves their little children home Alone??!!,1,3,2023-04-09T10:13:05Z,-0.0631510416666666,0.5833333333333333,0.211,0.789,0.0,-0.398,64.37,Sarcasm,fear,Toxic
+328,328,2,UgzirxHX9NgQwi1eJtx4AaABAg,@traydaniel0403,"In an interview, Raegan Revord (who played Missy) said that it was actually her stunt double removing the splinter from Sheldon’s finger. She admitted that she was upset that she didn’t get to  do it because she had to work for hours",25,0,2023-04-05T14:52:36Z,0.0,0.05,0.095,0.766,0.139,0.0516,36.96,Not Sarcasm,anger,Not Toxic
+329,329,2,UgwN7OsWKUe171BK6a14AaABAg,@ChrisManley1994,"*I’VE GOT A SPLINTER!!!!*
+
+So? 😂😂😂😂😂😂",3,0,2023-03-29T21:32:49Z,0.0,0.0,0.18,0.442,0.378,0.9557,77.91,Not Sarcasm,joy,Not Toxic
+330,330,2,Ugx4FE758DvFVAtkbll4AaABAg,@stardust1815,"I got a splinter in elementary school and it was a big one. Instead of taking it out the nurse put a 🩹 on it. Only made it hurt worse. (To her credit the few times I saw the nurse she was very nice and usually helpful, it was just this one time she didn’t really help.)",0,0,2023-03-24T21:10:24Z,0.075,0.5083333333333334,0.145,0.604,0.25,0.5709,73.85,Sarcasm,disgust,Not Toxic
+331,331,2,UgwaC7NGdnPk5p98dS54AaABAg,@anujlahoty8022,Most hilarious clip,1,0,2023-03-12T16:10:23Z,0.5,1.0,0.0,0.27,0.73,0.4019,-6.7,Not Sarcasm,sadness,Not Toxic
+332,332,2,UgzsQwtG7R-cWgM7X0R4AaABAg,@kellychan8856,They both are very adorable.,51,0,2023-03-11T10:53:53Z,0.5,1.0,0.0,0.238,0.762,0.4939,121.22,Not Sarcasm,sadness,Not Toxic
+333,333,2,UgyO6fWFXG5L-1EnPSN4AaABAg,@Url0calhuman,"Mom: ilove u and miss u very much
+Young Sheldon: ...ok
+Young Sheldon: i handled that really well
+🥲",4,0,2023-03-04T07:34:57Z,0.2249999999999999,0.375,0.072,0.721,0.207,0.4576,81.29,Not Sarcasm,disgust,Not Toxic
+334,334,2,UgzJMuyCCn0YR54r4sR4AaABAg,@kato_dsrdr,"Sheesh, the girl's voice is very cool.",4,0,2023-02-20T02:07:27Z,0.35,0.65,0.0,0.723,0.277,0.3182,117.16,Not Sarcasm,guilt,Not Toxic
+335,335,2,UgwrdbwUXHK-hs_G02d4AaABAg,@sumariahsumariah1471,Your mom shall you go on for hang out with your happyness,0,0,2023-01-20T16:51:44Z,0.0,0.0,0.0,1.0,0.0,0.0,83.32,Not Sarcasm,disgust,Toxic
+336,336,2,Ugw5X5L6d4C6U6htrIZ4AaABAg,@dexterbrockhaus686,This girl is funny,2,0,2023-01-02T17:04:03Z,0.25,1.0,0.0,0.256,0.744,0.4404,77.91,Not Sarcasm,sadness,Not Toxic
+337,337,2,Ugw2Kkbsre-rlRiT6BB4AaABAg,@rishleeyarishan478,In Sheldon show I'm definitely Missy and I ain't lying the most in common we have us being naughty and drama,1,0,2023-01-02T14:02:06Z,-0.15,0.6333333333333333,0.0,0.646,0.354,0.6679,50.84,Not Sarcasm,guilt,Toxic
+338,338,2,UgxioICS42RhwZm6dVJ4AaABAg,@masonsmith246,"Mmm
+
+T",0,0,2022-11-30T00:50:08Z,0.0,0.0,0.0,1.0,0.0,0.0,121.22,Not Sarcasm,sadness,Not Toxic
+339,339,2,Ugwg894kkJHNpFJynJN4AaABAg,@brianbentley4173,The way they scream 😱 hahaha. I'm not going in and you're doing great,15,1,2022-11-13T21:05:40Z,0.5,0.575,0.366,0.302,0.332,0.0516,84.84,Not Sarcasm,guilt,Toxic
+340,340,2,Ugwoxxhm3H7Wo27NZVd4AaABAg,@terrymathews774,This is the best show in the world they do look way smaller but Georgie is way taller now,5,0,2022-11-08T22:18:40Z,0.5,0.4,0.0,0.656,0.344,0.6369,104.64,Not Sarcasm,disgust,Not Toxic
+341,341,2,UgxMhqS92NG7jGg8awR4AaABAg,@sophielockhart8177,Why is he so cute,2,0,2022-11-06T17:37:40Z,0.5,1.0,0.0,0.0,1.0,0.4588,121.22,Not Sarcasm,guilt,Toxic
+342,342,2,UgxXKWCvDTu5M7_zVa54AaABAg,@marcostephenson1561,BBBBBBBBBB$+$,0,0,2022-11-02T01:46:28Z,0.0,0.0,0.0,1.0,0.0,0.0,121.22,Not Sarcasm,sadness,Not Toxic
+343,343,2,UgwunJe1-7pB3TVc9_x4AaABAg,@wintergoat6612,Missy really is a sweetheart.,38,1,2022-10-24T20:07:27Z,0.2,0.2,0.0,0.395,0.605,0.6801,9.21,Not Sarcasm,anger,Not Toxic
+344,344,2,UgwnZ-LOoPHXv11Ulf54AaABAg,@petejones879,I love little missy she's far smarter than sheldon in every day stuff,34,0,2022-10-22T05:40:00Z,0.1374999999999999,0.7000000000000001,0.0,0.526,0.474,0.802,78.25,Not Sarcasm,joy,Not Toxic
+345,345,2,UgyOt0dDjx1RclAMXLx4AaABAg,@rodildelariarte1448,Did u know Sheldon and missy are twins Sheldon is the older one,4,0,2022-10-18T04:15:24Z,0.1666666666666666,0.3333333333333333,0.0,1.0,0.0,0.0,71.82,Not Sarcasm,guilt,Not Toxic
+346,346,2,UgwNb_sQ-1AYthDdFxB4AaABAg,@rocketmom60,"Missy was so much more mature than Sheldon, but in TBBT Mary really is insulting about both Missy and Georgie. Her favoritism for Sheldon was obvious and the rest of the family knew it as well. Perhaps if she didn't show such favoritism maybe Missy would have made more of her life. We know Georgie ended up doing quite well with a chain of his own businesses yet Mary still said in TBBT that he was dumb. If he was dumb, his stores wouldn't have been successful,",72,0,2022-09-29T17:16:18Z,-0.15,0.5916666666666667,0.224,0.64,0.137,-0.7711,71.0,Not Sarcasm,anger,Not Toxic
+347,347,2,UgzY55LWXtuQWM6nqCl4AaABAg,@Snipermadcunt,Why is in every 6 meters they always argue imagine living with them,0,0,2022-09-25T17:16:40Z,0.0,0.0,0.286,0.714,0.0,-0.34,38.99,Not Sarcasm,disgust,Toxic
+348,348,2,UgwgFOcsVI1mYdcWr_p4AaABAg,@Peahpod,"Mary: I love you and miss you very much.
+
+Sheldon: .....
+
+
+
+
+*ok*",10,0,2022-09-17T07:57:31Z,0.3999999999999999,0.4333333333333333,0.094,0.529,0.376,0.7003,99.23,Not Sarcasm,joy,Not Toxic
+349,349,2,Ugx7UVJNkP2fjg-p1Bx4AaABAg,@keishamixon8918,"When she said ""how would I know I'm nodey all the time"" had me dying 😭 🤣 that's me every day always in trouble",53,0,2022-09-04T19:44:43Z,-0.2,0.2,0.207,0.679,0.114,-0.3818,84.68,Not Sarcasm,guilt,Not Toxic
+350,350,2,Ugwc6FOJkWNCC4w3zfF4AaABAg,@susiemol1,And sometimes her mustache 😹😹😹😹😹,1,0,2022-08-31T02:04:35Z,0.0,0.0,0.188,0.436,0.376,0.926,35.61,Not Sarcasm,sadness,Toxic
+351,351,2,UgzqL5XKB4rcIwMdwdJ4AaABAg,@AngryMetaIhead,Who is missy?,1,1,2022-08-18T16:00:59Z,0.0,0.0,0.0,1.0,0.0,0.0,36.62,Not Sarcasm,disgust,Toxic
+352,352,2,UgxWCcgUHCjaiykpckB4AaABAg,@eternallegacy89,That ain't no flashlight... ofc it is next to the Bible... xD.,0,0,2022-08-18T05:23:29Z,0.0,0.0,0.0,0.703,0.297,0.5859,110.22,Not Sarcasm,guilt,Not Toxic
+353,353,2,Ugx6wlOr58-TKnvrPIt4AaABAg,@dianemayersjones3682,love this show!!!,17,0,2022-08-06T12:55:15Z,0.9765625,0.6,0.0,0.441,0.559,0.7249,120.21,Not Sarcasm,joy,Not Toxic
+354,354,2,UgwgYxsjXcuEB68d4k14AaABAg,@nadamostafa4555,Sheldon after his mum finished what she said : kay bye *hangs up* I handled that rlly well :),4,0,2022-07-16T09:01:01Z,0.5,1.0,0.0,0.87,0.13,0.2732,78.25,Not Sarcasm,guilt,Toxic
+355,355,2,Ugz_2oItoezhURWIuMx4AaABAg,@rdeye-rb1pe,I really really wish they had Mike judge play Sheldon's father that would have been something how can Sheldon be a genius he doesn't even know what a tap and die is LOL,1,0,2022-06-14T15:24:06Z,0.5,0.4499999999999999,0.139,0.534,0.328,0.6491,60.65,Not Sarcasm,guilt,Not Toxic
+356,356,2,Ugy5FCpIHdPRrQVlsjt4AaABAg,@rdeye-rb1pe,I had my German Shepherd when I was 6 years old almost bite my f****** foot off in 95° weather still didn't cry no Sheldon I don't agree with you it's a splinter after we discipline the dog he took a nap with me wouldn't leave my side after that I think the dog actually knew he did something wrong that's why I love animals,1,0,2022-06-14T15:21:12Z,0.0199999999999999,0.36,0.104,0.738,0.158,0.4003,51.86,Not Sarcasm,shame,Not Toxic
+357,357,2,UgwIbuYmoRGNBa6JXJt4AaABAg,@pariscochran3476,Eeeeeeeeeedtydfgyfccgyfdgfcfvcggcccccvvyuohhjjhjjgyyffgvgyytrrthffghccvxfhfttyfccfxxxz2345546657,0,0,2022-06-11T23:37:38Z,0.0,0.0,0.0,1.0,0.0,0.0,-1486.19,Not Sarcasm,sadness,Not Toxic
+358,358,2,UgzZqTcevi7ufUwziA14AaABAg,@-report1070,i wouldn't know. I'm naughty all the time 😂😂,4,0,2022-06-07T08:09:12Z,-0.15,0.9,0.156,0.533,0.311,0.7003,119.19,Not Sarcasm,guilt,Toxic
+359,359,2,UgwDLWqU8CN-FU9I0d94AaABAg,@MS-ih9ws,Jesus loves you,3,0,2022-06-06T06:36:35Z,0.0,0.0,0.0,0.213,0.787,0.5719,77.91,Not Sarcasm,sadness,Toxic
+360,360,2,UgzNq3wPffjNBG8hunR4AaABAg,@iLoVeStRaNgErThInGs..,"Her: your realy not coming in?
+Him:no but your doing great 😊",6,0,2022-05-26T19:55:47Z,0.8,0.75,0.0,0.442,0.558,0.8779,59.97,Not Sarcasm,guilt,Toxic
+361,361,2,UgyiiAEF5lUGLtk3uzx4AaABAg,@cozmikfunkrabbitt30,it amazes me when little kids are really good actors at such a young age like this little girl,167,0,2022-05-24T12:45:23Z,0.1062499999999999,0.5,0.0,0.481,0.519,0.8238,68.77,Not Sarcasm,anger,Not Toxic
+362,362,2,UgyUgeYiQceJNzOtieN4AaABAg,@1stchild670,They had to do all that my dad would just use his hands,1,0,2022-05-21T14:03:43Z,0.0,0.0,0.0,1.0,0.0,0.0,118.18,Sarcasm,anger,Not Toxic
+363,363,2,UgxKyT-Hv-Y9W2-RKCJ4AaABAg,@penelopenankunda8583,They were just so adorable,29,0,2022-05-20T19:05:47Z,0.5,1.0,0.0,0.0,1.0,0.4939,121.22,Not Sarcasm,sadness,Not Toxic
+364,364,2,Ugx7LjrAGdWyzTcpeCR4AaABAg,@BRN497,☎️,3,0,2022-05-07T16:38:54Z,0.0,0.0,0.0,1.0,0.0,0.0,206.84,Not Sarcasm,sadness,Not Toxic
+365,365,2,UgwXDtDE1OyTSl1SaJ14AaABAg,@CuriousToKnow212,"So in childhood he gets sarcasm when she says it's deep!
+I myself didn't get that and thought it is deep for a second.",4,0,2022-05-06T09:33:07Z,0.0,0.2666666666666666,0.154,0.846,0.0,-0.2942,91.27,Not Sarcasm,guilt,Not Toxic
+366,366,2,UgyoHQA6kWtwJKO1O_h4AaABAg,@shainah.6388,The way they scream everytime the phone rings 🤣,67,3,2022-05-02T04:34:34Z,0.0,0.0,0.194,0.576,0.23,0.128,83.32,Not Sarcasm,disgust,Toxic
+367,367,2,UgxIqH38z1F_MhEI5Rx4AaABAg,@lavanyanain3531,0:25 missy is really beautiful,9,0,2022-04-04T11:33:44Z,0.85,1.0,0.0,0.417,0.583,0.6361,8.2,Not Sarcasm,sadness,Not Toxic
+368,368,2,UgxDWr8hsjZXPnXNodV4AaABAg,@Itz_FroggyQueen,"“Okay goodbye, I miss you and I love you” “ok” “I handled that very well” that’s how it’s done ladies and gentlemen 🤣🤣🤣🤣",139,0,2022-03-30T12:37:08Z,0.5,0.5333333333333333,0.029,0.547,0.423,0.9666,78.25,Not Sarcasm,joy,Not Toxic
+369,369,2,UgzsHQg4xdPwW3BB_Ml4AaABAg,@dherra8945,"The spiffy gymnast dfly soak because state karyologically bomb lest a efficacious astronomy. amused, enthusiastic mom",0,0,2022-03-22T16:31:43Z,0.6,0.9,0.151,0.566,0.283,0.4215,14.12,Not Sarcasm,anger,Toxic
+370,370,2,UgwKJVXb4D9LNh_AoNN4AaABAg,@snappiepappie9899,"I didn’t even realize how little they were back then, they are like babies",1175,13,2022-03-14T21:05:20Z,-0.09375,0.25,0.0,0.758,0.242,0.3041,56.93,Not Sarcasm,disgust,Toxic
+371,371,2,UgxI_iGEM0hEnZXrx-R4AaABAg,@shamimchowdhury2827,how cute they were,11,0,2022-03-13T11:17:33Z,0.5,1.0,0.0,0.0,1.0,0.4588,121.22,Not Sarcasm,sadness,Not Toxic
+372,372,2,Ugzne1i_Y6WX8Wx8ra94AaABAg,@angecrocker2614,🌷 Promo'SM.,3,0,2022-03-12T11:10:30Z,0.0,0.0,0.0,1.0,0.0,0.0,36.62,Not Sarcasm,sadness,Not Toxic
+373,373,2,UgyexLOI-5_JDR8-ucZ4AaABAg,@iseeyou6023,Their so cute omg,22,0,2022-03-10T16:50:33Z,0.5,1.0,0.0,0.25,0.75,0.4588,120.21,Not Sarcasm,sadness,Not Toxic
+374,374,2,UgykMwgXcuFvbGh5aK54AaABAg,@aimenullah6094,Missy: wait there are tweezers in her makeup bag she plucks her eyebrows with them..AnD sOmETiMes hEr MuSTacHe.,202,11,2022-03-06T08:28:13Z,0.0,0.0,0.0,1.0,0.0,0.0,53.88,Not Sarcasm,sadness,Toxic
+375,375,2,Ugz2gJEgGQBYNGwhf8B4AaABAg,@emiliobello2538,Little sister to the rescue,10,2,2022-02-18T00:47:54Z,-0.1875,0.5,0.0,0.398,0.602,0.4627,34.59,Not Sarcasm,sadness,Not Toxic
+376,376,2,UgyeDHv8Va_XgLXCEPV4AaABAg,@marquisdesade3058,cut off the finger thats what we gotta do,0,0,2022-02-17T17:15:22Z,0.0,0.0,0.344,0.656,0.0,-0.2732,100.24,Not Sarcasm,guilt,Toxic
+377,377,2,UgxF9kPLumZxu0bWUZ54AaABAg,@jeremiahsyoutubechannel1266,That girl on the couch she is beautiful like omg I like her😍,8,0,2022-01-14T22:55:08Z,0.85,1.0,0.0,0.37,0.63,0.8979,89.75,Not Sarcasm,disgust,Not Toxic
+378,378,2,UgwY9i1HHAEBFmmWofF4AaABAg,@fangie_water,I'm scared of needles too 😆,11,0,2022-01-13T06:12:50Z,0.0,0.0,0.309,0.426,0.266,-0.1027,93.81,Sarcasm,guilt,Not Toxic
+379,379,2,UgzHqd6STzma5S_L4Qd4AaABAg,@thomasplouffe1363,I hated getting splinters as a kid so Sheldon is right that splinters strike fear into kids everywhere,409,5,2022-01-11T20:55:25Z,-0.3071428571428571,0.6178571428571429,0.527,0.473,0.0,-0.836,60.31,Not Sarcasm,fear,Toxic
+380,380,2,Ugz5uQRKIP0bxKZsU4p4AaABAg,@unknownunknowns,I wouldn’t know. I’m naughty all the time.,14,1,2022-01-10T22:56:16Z,-0.15,0.9,0.0,1.0,0.0,0.0,119.19,Not Sarcasm,guilt,Toxic
+381,381,2,Ugw4CMBeGmVObrT05Y94AaABAg,@christopherbingham5092,"This was one of my all-time favorite episodes when it first aired, and it still is now.",169,0,2022-01-09T19:42:38Z,0.2833333333333333,0.6777777777777777,0.0,0.727,0.273,0.4588,89.75,Not Sarcasm,joy,Not Toxic
+382,382,2,UgyYTvglOmCUohuZIH94AaABAg,@looshaderen3540,She is so pretty.,17,0,2022-01-09T06:27:46Z,0.25,1.0,0.0,0.238,0.762,0.4939,36.62,Not Sarcasm,sadness,Not Toxic
+383,383,2,Ugzeha7e_erUj-dDRyF4AaABAg,@mademoisellecarolina4218,DID THEY GET THE SPLINTER OUT???,39,4,2022-01-08T16:49:27Z,0.0,0.0,0.0,1.0,0.0,0.0,77.91,Not Sarcasm,sadness,Toxic
+384,384,2,UgxEYeSpFeVu6l7cLzF4AaABAg,@rekharathordilli9202,When he said I handle it very well 😂😂... That's hilarious,564,3,2022-01-08T13:36:50Z,0.5,1.0,0.145,0.382,0.473,0.8625,49.48,Not Sarcasm,guilt,Not Toxic
+385,385,2,UgzMaYX2CBazThHiXUt4AaABAg,@TheZarric,"So, how many did Sheldon go thru since he finished the M equation?",9,0,2022-01-08T01:00:00Z,0.5,0.5,0.0,1.0,0.0,0.0,81.29,Not Sarcasm,guilt,Toxic
+386,386,2,Ugwse-vUBypgEwEb2o54AaABAg,@carolannpacificadam1944,Love 💖 Sheldon,13,2,2022-01-07T23:15:36Z,0.5,0.6,0.0,0.086,0.914,0.891,77.91,Not Sarcasm,sadness,Not Toxic
+387,387,3,UgwbW9mYMsCnk608Ifd4AaABAg,@jenniferskorczewski3573,I can't help it! Operation? I have had two splinters in my life from metal! Can you imagine if it was a metal shard!,0,0,2023-12-05T00:06:01Z,0.0,0.0,0.183,0.817,0.0,-0.4826,67.72,Not Sarcasm,guilt,Not Toxic
+388,388,3,UgwBX2RLmot2zIM8ush4AaABAg,@moniquebailey5514,Can  you  visit  me  in Jamaica 🇯🇲,0,0,2023-12-04T00:45:56Z,0.0,0.0,0.0,1.0,0.0,0.0,35.61,Not Sarcasm,sadness,Not Toxic
+389,389,3,UgxPniEbDZTiN9twkGF4AaABAg,@mingming7078,Sheldon got a splinter :nooooooooooooo😱😱😱😱,1,0,2023-12-03T07:16:28Z,0.0,0.0,0.641,0.359,0.0,-0.969,75.88,Not Sarcasm,joy,Not Toxic
+390,390,3,UgxXkdo8L5GuFzJvMUB4AaABAg,@SofiRdiz,1:00 1:13,0,0,2023-11-24T21:22:41Z,0.0,0.0,0.0,1.0,0.0,0.0,120.21,Not Sarcasm,sadness,Toxic
+391,391,3,UgzxhYyGiC8YlD7SJ3V4AaABAg,@Rose11133,"Personally hearing everyone talk about the annoying pain of splinters I was so confused as a kid because I never knew what it was and know that I’m older I realize I’m so lucky to have never experienced paper cuts, splinters, and brain freezes.",3,0,2023-11-18T12:34:52Z,-0.1833333333333333,0.6611111111111111,0.268,0.598,0.134,-0.5736,23.77,Sarcasm,fear,Not Toxic
+392,392,3,Ugxl8BpymvLaQKrbhSF4AaABAg,@Caotaki,"Me personally, I never in my life had a splinter",0,0,2023-11-13T21:12:18Z,0.0,0.3,0.0,1.0,0.0,0.0,8.2,Not Sarcasm,anger,Not Toxic
+393,393,3,UgyT-AF0j5x7Ob14heZ4AaABAg,@KrazyDragonz,erohr,0,0,2023-11-02T01:18:10Z,0.0,0.0,0.0,1.0,0.0,0.0,121.22,Not Sarcasm,sadness,Not Toxic
+394,394,3,UgzVl5e2TBtadIWvjWx4AaABAg,@brennanpeoples2089,""" whats gowze"" * ""it's gauze"" * damn sheldon",0,0,2023-11-01T22:36:23Z,0.0,0.0,0.197,0.803,0.0,-0.4019,99.23,Not Sarcasm,guilt,Not Toxic
+395,395,3,UgwDWIbxnZh8tBB9etZ4AaABAg,@bareh__07,They are so cute such a beautiful movie.,1,0,2023-10-13T16:28:06Z,0.675,1.0,0.0,0.225,0.775,0.7845,59.97,Not Sarcasm,disgust,Not Toxic
+396,396,3,Ugx9O8MmvCJ61olhwnZ4AaABAg,@Victoriastroud-yr3bh,Missy is only naughty cause her name,0,0,2023-10-09T19:41:25Z,-0.15,0.9,0.0,1.0,0.0,0.0,92.8,Not Sarcasm,sadness,Toxic
+397,397,3,Ugw-JNbfRJ_18Q02_ll4AaABAg,@AndyMazuma-bq7uc,I feel bad,0,0,2023-10-09T17:59:59Z,-0.6999999999999998,0.6666666666666666,0.778,0.222,0.0,-0.5423,120.21,Not Sarcasm,guilt,Not Toxic
+398,398,3,UgyoL86abp64G51iFOV4AaABAg,@spam41306,The Scream that Young Sheldon made😂😂😂😂😂,4,0,2023-09-22T17:00:34Z,0.1,0.4,0.248,0.366,0.386,0.8957,92.8,Not Sarcasm,sadness,Not Toxic
+399,399,3,Ugyz6KneCiOMqlCBd1h4AaABAg,@user-wl7tb3fi4f,I GOT A SPLINTER 😂😂😊,2,0,2023-09-20T00:13:07Z,0.0,0.0,0.134,0.387,0.479,0.8957,77.91,Not Sarcasm,joy,Not Toxic
+400,400,3,UgwKmcix50ka4sQKPGV4AaABAg,@jwood8397,My mom would put bread that had been soaked in milk over the splinter over night and it’d be in the bread in the morning. I threw a fit if they tried to use tweezers.,3,0,2023-09-10T03:05:26Z,0.4,0.4,0.0,0.872,0.128,0.3612,97.7,Not Sarcasm,fear,Not Toxic
+401,401,3,UgxQ3BNazR3JPbJ-jlN4AaABAg,@danielhainline8882,He could wait for his body to reject the splinter.  We shed our skin and the shed skin can take the splinter with it.,0,0,2023-08-24T18:48:15Z,0.0,0.0,0.184,0.816,0.0,-0.4019,91.27,Not Sarcasm,anger,Toxic
+402,402,3,Ugwg5UM4MHzntQ__5xl4AaABAg,@AchumilePeter,"Love your videos
+Have the best day ever ❤",1,0,2023-08-20T13:44:53Z,0.75,0.4499999999999999,0.0,0.241,0.759,0.9274,100.24,Not Sarcasm,joy,Not Toxic
+403,403,3,UgzAvfoL6E5hjR3wcIF4AaABAg,@clm0208,What movie is Missy watching? The guy seems to have upper body naked? 👀,0,0,2023-08-14T07:33:22Z,0.0,0.2,0.0,1.0,0.0,0.0,84.34,Sarcasm,disgust,Toxic
+404,404,3,Ugx33E8nNDbEVNWNTKd4AaABAg,@georgeelder3042,Why do I feel like missy is smarter than sheldon,1,0,2023-08-10T14:07:27Z,0.0,0.0,0.0,0.353,0.647,0.6705,83.32,Not Sarcasm,disgust,Not Toxic
+405,405,3,UgzAb7YwrEkdO74fJyx4AaABAg,@mumtaheentasnimaprokrity1011,"Ok missy was great and fun and most of the times I liked her more than sheldon.but since she started middle school,she became all disobedient,gave her parents shit and became selfish.like stealing your dad's truck isn't what you do to get on your parents good side.so DUMB",0,0,2023-08-01T17:28:08Z,0.290625,0.51875,0.285,0.457,0.258,-0.3268,70.5,Not Sarcasm,anger,Toxic
+406,406,3,UgwB61KdDxy25_ar2X14AaABAg,@kingsleyisaac819,Missy is a Legend,2,0,2023-07-24T20:26:50Z,0.0,0.0,0.0,1.0,0.0,0.0,35.61,Not Sarcasm,sadness,Toxic
+407,407,3,UgzlTxUCTmxtN1NDngN4AaABAg,@na-ra8701,Please tell me where can I watch sheldon series ?,0,2,2023-07-18T16:51:04Z,0.0,0.0,0.0,0.685,0.315,0.3182,83.32,Not Sarcasm,sadness,Not Toxic
+408,408,3,UgzmL_00oIR0t8HGAEd4AaABAg,@zoeberesford9358,Everyone has splinter.,0,1,2023-07-16T07:54:14Z,0.0,0.0,0.0,1.0,0.0,0.0,-6.7,Sarcasm,sadness,Toxic
+409,409,3,UgyKs1taYgVKU86TlqR4AaABAg,@mohammedyahya4163,and sometimes her mustach 😂😂,1,0,2023-07-13T08:26:11Z,0.0,0.0,0.196,0.412,0.392,0.7003,35.61,Not Sarcasm,sadness,Toxic
+410,410,3,UgzTxnkOtB1PzdcsBjR4AaABAg,@klaudiastulajterova7995,2:58 a 2:59😂😂😂😂😂,2,0,2023-07-09T11:22:12Z,0.0,0.0,0.209,0.374,0.418,0.926,120.21,Not Sarcasm,sadness,Not Toxic
+411,411,3,UgxELN96cB-O2LgZqhR4AaABAg,@klaudiastulajterova7995,2:19 a 2:20😂😂😂😂😂😂😂😂,1,0,2023-07-09T11:20:27Z,0.0,0.0,0.212,0.363,0.425,0.969,120.21,Not Sarcasm,sadness,Toxic
+412,412,3,UgyQEOWAaSBuQ9XZGKl4AaABAg,@msharma5069,"Young sheldon slowly became more lovely than TBBT, the minute observance of director is amazing for a childhood depiction, they even put splinter in script😘🥰❤️",3,0,2023-07-07T16:49:47Z,0.225,0.6125,0.0,0.576,0.424,0.9565,38.32,Not Sarcasm,disgust,Not Toxic
+413,413,3,Ugzir9m4nnMpH5WVV7h4AaABAg,@Queen_Springsteen,He’s so dramatic 😂,5,0,2023-06-29T14:23:23Z,-0.4333333333333333,0.6,0.178,0.467,0.355,0.4404,-47.99,Not Sarcasm,guilt,Toxic
+414,414,3,Ugwiln6tmKleRbjrM154AaABAg,@NondumisoNkosi-mf8rv,Chdhdhfhg,0,0,2023-06-25T17:24:48Z,0.0,0.0,0.0,1.0,0.0,0.0,-47.99,Not Sarcasm,sadness,Not Toxic
+415,415,3,UgzhLf1Uhj9KIvELU-p4AaABAg,@saranox6332,Kids fear them...As an adult I still fear them XD!,11,0,2023-06-10T01:17:28Z,0.125,0.3,0.412,0.308,0.279,-0.2867,116.15,Not Sarcasm,fear,Toxic
+416,416,3,UgxnflET4jtOtW8B3694AaABAg,@samojolbo7907,how is he so anoying why didnt they just beat him?,0,0,2023-06-08T04:14:28Z,0.0,0.0,0.0,1.0,0.0,0.0,59.97,Not Sarcasm,guilt,Toxic
+417,417,3,UgzOCmcOUSVpPrudtod4AaABAg,@wiamzemani,2:29 I love her 😂😂,21,1,2023-06-04T20:36:01Z,0.5,0.6,0.168,0.31,0.522,0.875,120.21,Not Sarcasm,joy,Not Toxic
+418,418,3,Ugz2uJrnDRNBFX0qIch4AaABAg,@Growgreen,"I’m okay with splinters but the one that I got so scared and cried from was a splinter in my nail and it was deep so when it slide my finger on something, it sometimes hurts because it’s moving and when my mom tried to take it out it kept on hurting and told my mom to bring me to the hospital",1,0,2023-05-29T20:39:36Z,0.25,0.45,0.321,0.625,0.054,-0.8555,64.04,Not Sarcasm,fear,Not Toxic
+419,419,3,Ugx7t9WyrEU5wnaKj9p4AaABAg,@Mariobros2825,Sheldon the goodie to shoes,1,0,2023-05-29T16:24:10Z,0.0,0.0,0.0,1.0,0.0,0.0,59.97,Not Sarcasm,sadness,Toxic
+420,420,3,UgzWb_3qMNQpPTytt6p4AaABAg,@stevenmarossy9064,Assewd sfsfdtedfddddswdds 2:02,0,0,2023-05-14T07:07:06Z,0.0,0.0,0.0,1.0,0.0,0.0,34.59,Not Sarcasm,sadness,Not Toxic
+421,421,3,UgyTu8plRcwwH2TxDD94AaABAg,@daisyrammutle2572,"Missy: ""what's gauze?""
+Sheldon: "" it's gauze and the fact that you don't know that it's not filling me with hope "".
+Me:😳😂😂😂",25,0,2023-05-07T12:32:59Z,0.0,0.0,0.112,0.608,0.28,0.891,90.77,Not Sarcasm,anger,Not Toxic
+422,422,3,Ugwn5MAxWj32zXvZnJJ4AaABAg,@daisyrammutle2572,"Sheldon: ""I handled that really welled""
+Me: 😂😂😂",10,0,2023-05-07T12:31:02Z,0.2,0.2,0.164,0.46,0.376,0.8553,33.58,Not Sarcasm,sadness,Not Toxic
+423,423,3,UgzguA2l1dOAV-hZdwV4AaABAg,@willmehaffy7226,Hi,0,0,2023-04-26T20:21:39Z,0.0,0.0,0.0,1.0,0.0,0.0,121.22,Sarcasm,sadness,Not Toxic
+424,424,3,UgztFpdrHDTgOoLtZE14AaABAg,@Natehillsdaughter,"""I love you and miss you very much""
+
+
+
+
+....
+
+
+*Ok*
+Has me dying bro 😭😭😭",6,0,2023-04-12T00:26:53Z,0.3999999999999999,0.4333333333333333,0.348,0.447,0.204,-0.5423,102.27,Not Sarcasm,joy,Not Toxic
+425,425,3,UgwvQVgKDeMbwRkA86l4AaABAg,@davetherave3511,Which decent parent leaves their little children home Alone??!!,1,3,2023-04-09T10:13:05Z,-0.0631510416666666,0.5833333333333333,0.211,0.789,0.0,-0.398,64.37,Sarcasm,fear,Toxic
+426,426,3,UgzirxHX9NgQwi1eJtx4AaABAg,@traydaniel0403,"In an interview, Raegan Revord (who played Missy) said that it was actually her stunt double removing the splinter from Sheldon’s finger. She admitted that she was upset that she didn’t get to  do it because she had to work for hours",25,0,2023-04-05T14:52:36Z,0.0,0.05,0.095,0.766,0.139,0.0516,36.96,Not Sarcasm,anger,Not Toxic
+427,427,3,UgwN7OsWKUe171BK6a14AaABAg,@ChrisManley1994,"*I’VE GOT A SPLINTER!!!!*
+
+So? 😂😂😂😂😂😂",3,0,2023-03-29T21:32:49Z,0.0,0.0,0.18,0.442,0.378,0.9557,77.91,Not Sarcasm,joy,Not Toxic
+428,428,3,Ugx4FE758DvFVAtkbll4AaABAg,@stardust1815,"I got a splinter in elementary school and it was a big one. Instead of taking it out the nurse put a 🩹 on it. Only made it hurt worse. (To her credit the few times I saw the nurse she was very nice and usually helpful, it was just this one time she didn’t really help.)",0,0,2023-03-24T21:10:24Z,0.075,0.5083333333333334,0.145,0.604,0.25,0.5709,73.85,Sarcasm,disgust,Not Toxic
+429,429,3,UgwaC7NGdnPk5p98dS54AaABAg,@anujlahoty8022,Most hilarious clip,1,0,2023-03-12T16:10:23Z,0.5,1.0,0.0,0.27,0.73,0.4019,-6.7,Not Sarcasm,sadness,Not Toxic
+430,430,3,UgzsQwtG7R-cWgM7X0R4AaABAg,@kellychan8856,They both are very adorable.,51,0,2023-03-11T10:53:53Z,0.5,1.0,0.0,0.238,0.762,0.4939,121.22,Not Sarcasm,sadness,Not Toxic
+431,431,3,UgyO6fWFXG5L-1EnPSN4AaABAg,@Url0calhuman,"Mom: ilove u and miss u very much
+Young Sheldon: ...ok
+Young Sheldon: i handled that really well
+🥲",4,0,2023-03-04T07:34:57Z,0.2249999999999999,0.375,0.072,0.721,0.207,0.4576,81.29,Not Sarcasm,disgust,Not Toxic
+432,432,3,UgzJMuyCCn0YR54r4sR4AaABAg,@kato_dsrdr,"Sheesh, the girl's voice is very cool.",4,0,2023-02-20T02:07:27Z,0.35,0.65,0.0,0.723,0.277,0.3182,117.16,Not Sarcasm,guilt,Not Toxic
+433,433,3,UgwrdbwUXHK-hs_G02d4AaABAg,@sumariahsumariah1471,Your mom shall you go on for hang out with your happyness,0,0,2023-01-20T16:51:44Z,0.0,0.0,0.0,1.0,0.0,0.0,83.32,Not Sarcasm,disgust,Toxic
+434,434,3,Ugw5X5L6d4C6U6htrIZ4AaABAg,@dexterbrockhaus686,This girl is funny,2,0,2023-01-02T17:04:03Z,0.25,1.0,0.0,0.256,0.744,0.4404,77.91,Not Sarcasm,sadness,Not Toxic
+435,435,3,Ugw2Kkbsre-rlRiT6BB4AaABAg,@rishleeyarishan478,In Sheldon show I'm definitely Missy and I ain't lying the most in common we have us being naughty and drama,1,0,2023-01-02T14:02:06Z,-0.15,0.6333333333333333,0.0,0.646,0.354,0.6679,50.84,Not Sarcasm,guilt,Toxic
+436,436,3,UgxioICS42RhwZm6dVJ4AaABAg,@masonsmith246,"Mmm
+
+T",0,0,2022-11-30T00:50:08Z,0.0,0.0,0.0,1.0,0.0,0.0,121.22,Not Sarcasm,sadness,Not Toxic
+437,437,3,Ugwg894kkJHNpFJynJN4AaABAg,@brianbentley4173,The way they scream 😱 hahaha. I'm not going in and you're doing great,15,1,2022-11-13T21:05:40Z,0.5,0.575,0.366,0.302,0.332,0.0516,84.84,Not Sarcasm,guilt,Toxic
+438,438,3,Ugwoxxhm3H7Wo27NZVd4AaABAg,@terrymathews774,This is the best show in the world they do look way smaller but Georgie is way taller now,5,0,2022-11-08T22:18:40Z,0.5,0.4,0.0,0.656,0.344,0.6369,104.64,Not Sarcasm,disgust,Not Toxic
+439,439,3,UgxMhqS92NG7jGg8awR4AaABAg,@sophielockhart8177,Why is he so cute,2,0,2022-11-06T17:37:40Z,0.5,1.0,0.0,0.0,1.0,0.4588,121.22,Not Sarcasm,guilt,Toxic
+440,440,3,UgxXKWCvDTu5M7_zVa54AaABAg,@marcostephenson1561,BBBBBBBBBB$+$,0,0,2022-11-02T01:46:28Z,0.0,0.0,0.0,1.0,0.0,0.0,121.22,Not Sarcasm,sadness,Not Toxic
+441,441,3,UgwunJe1-7pB3TVc9_x4AaABAg,@wintergoat6612,Missy really is a sweetheart.,38,1,2022-10-24T20:07:27Z,0.2,0.2,0.0,0.395,0.605,0.6801,9.21,Not Sarcasm,anger,Not Toxic
+442,442,3,UgwnZ-LOoPHXv11Ulf54AaABAg,@petejones879,I love little missy she's far smarter than sheldon in every day stuff,34,0,2022-10-22T05:40:00Z,0.1374999999999999,0.7000000000000001,0.0,0.526,0.474,0.802,78.25,Not Sarcasm,joy,Not Toxic
+443,443,3,UgyOt0dDjx1RclAMXLx4AaABAg,@rodildelariarte1448,Did u know Sheldon and missy are twins Sheldon is the older one,4,0,2022-10-18T04:15:24Z,0.1666666666666666,0.3333333333333333,0.0,1.0,0.0,0.0,71.82,Not Sarcasm,guilt,Not Toxic
+444,444,3,UgwNb_sQ-1AYthDdFxB4AaABAg,@rocketmom60,"Missy was so much more mature than Sheldon, but in TBBT Mary really is insulting about both Missy and Georgie. Her favoritism for Sheldon was obvious and the rest of the family knew it as well. Perhaps if she didn't show such favoritism maybe Missy would have made more of her life. We know Georgie ended up doing quite well with a chain of his own businesses yet Mary still said in TBBT that he was dumb. If he was dumb, his stores wouldn't have been successful,",72,0,2022-09-29T17:16:18Z,-0.15,0.5916666666666667,0.224,0.64,0.137,-0.7711,71.0,Not Sarcasm,anger,Not Toxic
+445,445,3,UgzY55LWXtuQWM6nqCl4AaABAg,@Snipermadcunt,Why is in every 6 meters they always argue imagine living with them,0,0,2022-09-25T17:16:40Z,0.0,0.0,0.286,0.714,0.0,-0.34,38.99,Not Sarcasm,disgust,Toxic
+446,446,3,UgwgFOcsVI1mYdcWr_p4AaABAg,@Peahpod,"Mary: I love you and miss you very much.
+
+Sheldon: .....
+
+
+
+
+*ok*",10,0,2022-09-17T07:57:31Z,0.3999999999999999,0.4333333333333333,0.094,0.529,0.376,0.7003,99.23,Not Sarcasm,joy,Not Toxic
+447,447,3,Ugx7UVJNkP2fjg-p1Bx4AaABAg,@keishamixon8918,"When she said ""how would I know I'm nodey all the time"" had me dying 😭 🤣 that's me every day always in trouble",53,0,2022-09-04T19:44:43Z,-0.2,0.2,0.207,0.679,0.114,-0.3818,84.68,Not Sarcasm,guilt,Not Toxic
+448,448,3,Ugwc6FOJkWNCC4w3zfF4AaABAg,@susiemol1,And sometimes her mustache 😹😹😹😹😹,1,0,2022-08-31T02:04:35Z,0.0,0.0,0.188,0.436,0.376,0.926,35.61,Not Sarcasm,sadness,Toxic
+449,449,3,UgzqL5XKB4rcIwMdwdJ4AaABAg,@AngryMetaIhead,Who is missy?,1,1,2022-08-18T16:00:59Z,0.0,0.0,0.0,1.0,0.0,0.0,36.62,Not Sarcasm,disgust,Toxic
+450,450,3,UgxWCcgUHCjaiykpckB4AaABAg,@eternallegacy89,That ain't no flashlight... ofc it is next to the Bible... xD.,0,0,2022-08-18T05:23:29Z,0.0,0.0,0.0,0.703,0.297,0.5859,110.22,Not Sarcasm,guilt,Not Toxic
+451,451,3,Ugx6wlOr58-TKnvrPIt4AaABAg,@dianemayersjones3682,love this show!!!,17,0,2022-08-06T12:55:15Z,0.9765625,0.6,0.0,0.441,0.559,0.7249,120.21,Not Sarcasm,joy,Not Toxic
+452,452,3,UgwgYxsjXcuEB68d4k14AaABAg,@nadamostafa4555,Sheldon after his mum finished what she said : kay bye *hangs up* I handled that rlly well :),4,0,2022-07-16T09:01:01Z,0.5,1.0,0.0,0.87,0.13,0.2732,78.25,Not Sarcasm,guilt,Toxic
+453,453,3,Ugz_2oItoezhURWIuMx4AaABAg,@rdeye-rb1pe,I really really wish they had Mike judge play Sheldon's father that would have been something how can Sheldon be a genius he doesn't even know what a tap and die is LOL,1,0,2022-06-14T15:24:06Z,0.5,0.4499999999999999,0.139,0.534,0.328,0.6491,60.65,Not Sarcasm,guilt,Not Toxic
+454,454,3,Ugy5FCpIHdPRrQVlsjt4AaABAg,@rdeye-rb1pe,I had my German Shepherd when I was 6 years old almost bite my f****** foot off in 95° weather still didn't cry no Sheldon I don't agree with you it's a splinter after we discipline the dog he took a nap with me wouldn't leave my side after that I think the dog actually knew he did something wrong that's why I love animals,1,0,2022-06-14T15:21:12Z,0.0199999999999999,0.36,0.104,0.738,0.158,0.4003,51.86,Not Sarcasm,shame,Not Toxic
+455,455,3,UgwIbuYmoRGNBa6JXJt4AaABAg,@pariscochran3476,Eeeeeeeeeedtydfgyfccgyfdgfcfvcggcccccvvyuohhjjhjjgyyffgvgyytrrthffghccvxfhfttyfccfxxxz2345546657,0,0,2022-06-11T23:37:38Z,0.0,0.0,0.0,1.0,0.0,0.0,-1486.19,Not Sarcasm,sadness,Not Toxic
+456,456,3,UgzZqTcevi7ufUwziA14AaABAg,@-report1070,i wouldn't know. I'm naughty all the time 😂😂,4,0,2022-06-07T08:09:12Z,-0.15,0.9,0.156,0.533,0.311,0.7003,119.19,Not Sarcasm,guilt,Toxic
+457,457,3,UgwDLWqU8CN-FU9I0d94AaABAg,@MS-ih9ws,Jesus loves you,3,0,2022-06-06T06:36:35Z,0.0,0.0,0.0,0.213,0.787,0.5719,77.91,Not Sarcasm,sadness,Toxic
+458,458,3,UgzNq3wPffjNBG8hunR4AaABAg,@iLoVeStRaNgErThInGs..,"Her: your realy not coming in?
+Him:no but your doing great 😊",6,0,2022-05-26T19:55:47Z,0.8,0.75,0.0,0.442,0.558,0.8779,59.97,Not Sarcasm,guilt,Toxic
+459,459,3,UgyiiAEF5lUGLtk3uzx4AaABAg,@cozmikfunkrabbitt30,it amazes me when little kids are really good actors at such a young age like this little girl,167,0,2022-05-24T12:45:23Z,0.1062499999999999,0.5,0.0,0.481,0.519,0.8238,68.77,Not Sarcasm,anger,Not Toxic
+460,460,3,UgyUgeYiQceJNzOtieN4AaABAg,@1stchild670,They had to do all that my dad would just use his hands,1,0,2022-05-21T14:03:43Z,0.0,0.0,0.0,1.0,0.0,0.0,118.18,Sarcasm,anger,Not Toxic
+461,461,3,UgxKyT-Hv-Y9W2-RKCJ4AaABAg,@penelopenankunda8583,They were just so adorable,29,0,2022-05-20T19:05:47Z,0.5,1.0,0.0,0.0,1.0,0.4939,121.22,Not Sarcasm,sadness,Not Toxic
+462,462,3,Ugx7LjrAGdWyzTcpeCR4AaABAg,@BRN497,☎️,3,0,2022-05-07T16:38:54Z,0.0,0.0,0.0,1.0,0.0,0.0,206.84,Not Sarcasm,sadness,Not Toxic
+463,463,3,UgwXDtDE1OyTSl1SaJ14AaABAg,@CuriousToKnow212,"So in childhood he gets sarcasm when she says it's deep!
+I myself didn't get that and thought it is deep for a second.",4,0,2022-05-06T09:33:07Z,0.0,0.2666666666666666,0.154,0.846,0.0,-0.2942,91.27,Not Sarcasm,guilt,Not Toxic
+464,464,3,UgyoHQA6kWtwJKO1O_h4AaABAg,@shainah.6388,The way they scream everytime the phone rings 🤣,67,3,2022-05-02T04:34:34Z,0.0,0.0,0.194,0.576,0.23,0.128,83.32,Not Sarcasm,disgust,Toxic
+465,465,3,UgxIqH38z1F_MhEI5Rx4AaABAg,@lavanyanain3531,0:25 missy is really beautiful,9,0,2022-04-04T11:33:44Z,0.85,1.0,0.0,0.417,0.583,0.6361,8.2,Not Sarcasm,sadness,Not Toxic
+466,466,3,UgxDWr8hsjZXPnXNodV4AaABAg,@Itz_FroggyQueen,"“Okay goodbye, I miss you and I love you” “ok” “I handled that very well” that’s how it’s done ladies and gentlemen 🤣🤣🤣🤣",139,0,2022-03-30T12:37:08Z,0.5,0.5333333333333333,0.029,0.547,0.423,0.9666,78.25,Not Sarcasm,joy,Not Toxic
+467,467,3,UgzsHQg4xdPwW3BB_Ml4AaABAg,@dherra8945,"The spiffy gymnast dfly soak because state karyologically bomb lest a efficacious astronomy. amused, enthusiastic mom",0,0,2022-03-22T16:31:43Z,0.6,0.9,0.151,0.566,0.283,0.4215,14.12,Not Sarcasm,anger,Toxic
+468,468,3,UgwKJVXb4D9LNh_AoNN4AaABAg,@snappiepappie9899,"I didn’t even realize how little they were back then, they are like babies",1175,13,2022-03-14T21:05:20Z,-0.09375,0.25,0.0,0.758,0.242,0.3041,56.93,Not Sarcasm,disgust,Toxic
+469,469,3,UgxI_iGEM0hEnZXrx-R4AaABAg,@shamimchowdhury2827,how cute they were,11,0,2022-03-13T11:17:33Z,0.5,1.0,0.0,0.0,1.0,0.4588,121.22,Not Sarcasm,sadness,Not Toxic
+470,470,3,Ugzne1i_Y6WX8Wx8ra94AaABAg,@angecrocker2614,🌷 Promo'SM.,3,0,2022-03-12T11:10:30Z,0.0,0.0,0.0,1.0,0.0,0.0,36.62,Not Sarcasm,sadness,Not Toxic
+471,471,3,UgyexLOI-5_JDR8-ucZ4AaABAg,@iseeyou6023,Their so cute omg,22,0,2022-03-10T16:50:33Z,0.5,1.0,0.0,0.25,0.75,0.4588,120.21,Not Sarcasm,sadness,Not Toxic
+472,472,3,UgykMwgXcuFvbGh5aK54AaABAg,@aimenullah6094,Missy: wait there are tweezers in her makeup bag she plucks her eyebrows with them..AnD sOmETiMes hEr MuSTacHe.,202,11,2022-03-06T08:28:13Z,0.0,0.0,0.0,1.0,0.0,0.0,53.88,Not Sarcasm,sadness,Toxic
+473,473,3,Ugz2gJEgGQBYNGwhf8B4AaABAg,@emiliobello2538,Little sister to the rescue,10,2,2022-02-18T00:47:54Z,-0.1875,0.5,0.0,0.398,0.602,0.4627,34.59,Not Sarcasm,sadness,Not Toxic
+474,474,3,UgyeDHv8Va_XgLXCEPV4AaABAg,@marquisdesade3058,cut off the finger thats what we gotta do,0,0,2022-02-17T17:15:22Z,0.0,0.0,0.344,0.656,0.0,-0.2732,100.24,Not Sarcasm,guilt,Toxic
+475,475,3,UgxF9kPLumZxu0bWUZ54AaABAg,@jeremiahsyoutubechannel1266,That girl on the couch she is beautiful like omg I like her😍,8,0,2022-01-14T22:55:08Z,0.85,1.0,0.0,0.37,0.63,0.8979,89.75,Not Sarcasm,disgust,Not Toxic
+476,476,3,UgwY9i1HHAEBFmmWofF4AaABAg,@fangie_water,I'm scared of needles too 😆,11,0,2022-01-13T06:12:50Z,0.0,0.0,0.309,0.426,0.266,-0.1027,93.81,Sarcasm,guilt,Not Toxic
+477,477,3,UgzHqd6STzma5S_L4Qd4AaABAg,@thomasplouffe1363,I hated getting splinters as a kid so Sheldon is right that splinters strike fear into kids everywhere,409,5,2022-01-11T20:55:25Z,-0.3071428571428571,0.6178571428571429,0.527,0.473,0.0,-0.836,60.31,Not Sarcasm,fear,Toxic
+478,478,3,Ugz5uQRKIP0bxKZsU4p4AaABAg,@unknownunknowns,I wouldn’t know. I’m naughty all the time.,14,1,2022-01-10T22:56:16Z,-0.15,0.9,0.0,1.0,0.0,0.0,119.19,Not Sarcasm,guilt,Toxic
+479,479,3,Ugw4CMBeGmVObrT05Y94AaABAg,@christopherbingham5092,"This was one of my all-time favorite episodes when it first aired, and it still is now.",169,0,2022-01-09T19:42:38Z,0.2833333333333333,0.6777777777777777,0.0,0.727,0.273,0.4588,89.75,Not Sarcasm,joy,Not Toxic
+480,480,3,UgyYTvglOmCUohuZIH94AaABAg,@looshaderen3540,She is so pretty.,17,0,2022-01-09T06:27:46Z,0.25,1.0,0.0,0.238,0.762,0.4939,36.62,Not Sarcasm,sadness,Not Toxic
+481,481,3,Ugzeha7e_erUj-dDRyF4AaABAg,@mademoisellecarolina4218,DID THEY GET THE SPLINTER OUT???,39,4,2022-01-08T16:49:27Z,0.0,0.0,0.0,1.0,0.0,0.0,77.91,Not Sarcasm,sadness,Toxic
+482,482,3,UgxEYeSpFeVu6l7cLzF4AaABAg,@rekharathordilli9202,When he said I handle it very well 😂😂... That's hilarious,564,3,2022-01-08T13:36:50Z,0.5,1.0,0.145,0.382,0.473,0.8625,49.48,Not Sarcasm,guilt,Not Toxic
+483,483,3,UgzMaYX2CBazThHiXUt4AaABAg,@TheZarric,"So, how many did Sheldon go thru since he finished the M equation?",9,0,2022-01-08T01:00:00Z,0.5,0.5,0.0,1.0,0.0,0.0,81.29,Not Sarcasm,guilt,Toxic
+484,484,3,Ugwse-vUBypgEwEb2o54AaABAg,@carolannpacificadam1944,Love 💖 Sheldon,13,2,2022-01-07T23:15:36Z,0.5,0.6,0.0,0.086,0.914,0.891,77.91,Not Sarcasm,sadness,Not Toxic
