@@ -70,10 +70,13 @@ Deliverable: Provided a document explaining the categorization process and bias 
 •	What viewers wanted to see in future seasons.
 Deliverable: Provided word cloud diagrams and an interpretation document.
 
+
+
 Tools and Libraries
 •	Python: Used for scripting and data processing.
 •	Libraries: BeautifulSoup, Selenium (for web scraping), Textblob, VADER, scikit-learn, matplotlib, wordcloud, and others as needed.
-•	
+
+
 This project offered a comprehensive approach to understanding viewer sentiments and opinions about "Young Sheldon." By leveraging various text analysis techniques and machine learning models, we aimed to uncover valuable insights that could inform future content strategies.
 
 
