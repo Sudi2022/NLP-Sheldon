@@ -1,4 +1,7 @@
 # Sentiment and Text Analysis of YouTube Reviews of Young Sheldon
+
+Liberaries : nltk, textblob, sklearn (scikit-learn), vaderSentiment, scipy.stats, googleapiclient.discovery, google_auth_oauthlib.flow, google.auth.transport.requests, pandas, youtube_transcript_api, pytube, textstat, re (regular expressions), numpy, wordcloud
+
 This project involved a detailed analysis of YouTube review videos and user comments related to the TV show "Young Sheldon." The project was divided into multiple questions, each focusing on different aspects of text analysis, sentiment analysis, and statistical interpretation.
 
 Objectives
